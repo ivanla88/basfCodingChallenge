@@ -1,0 +1,15 @@
+/Users/ivanlaraarranz/Desktop/basfCodingChallenge/src/main/java/com/basf/codingtest/chemicals/utils/DateUtils.java
+/Users/ivanlaraarranz/Desktop/basfCodingChallenge/src/main/java/com/basf/codingtest/chemicals/utils/FileUtils.java
+/Users/ivanlaraarranz/Desktop/basfCodingChallenge/src/main/java/com/basf/codingtest/chemicals/patent/PatentMapper.java
+/Users/ivanlaraarranz/Desktop/basfCodingChallenge/src/main/java/com/basf/codingtest/chemicals/patent/PatentController.java
+/Users/ivanlaraarranz/Desktop/basfCodingChallenge/src/main/java/com/basf/codingtest/chemicals/exceptions/IncorrectInputFileException.java
+/Users/ivanlaraarranz/Desktop/basfCodingChallenge/src/main/java/com/basf/codingtest/chemicals/configuration/PatentsConfiguration.java
+/Users/ivanlaraarranz/Desktop/basfCodingChallenge/src/main/java/com/basf/codingtest/chemicals/patent/Patent.java
+/Users/ivanlaraarranz/Desktop/basfCodingChallenge/src/main/java/com/basf/codingtest/chemicals/patent/PatentDto.java
+/Users/ivanlaraarranz/Desktop/basfCodingChallenge/src/main/java/com/basf/codingtest/chemicals/ChemicalsApplication.java
+/Users/ivanlaraarranz/Desktop/basfCodingChallenge/src/main/java/com/basf/codingtest/chemicals/exceptions/IncorrectSourceDirectoryException.java
+/Users/ivanlaraarranz/Desktop/basfCodingChallenge/src/main/java/com/basf/codingtest/chemicals/patent/IPatentRepository.java
+/Users/ivanlaraarranz/Desktop/basfCodingChallenge/src/main/java/com/basf/codingtest/chemicals/exceptions/ControllerAdvisor.java
+/Users/ivanlaraarranz/Desktop/basfCodingChallenge/src/main/java/com/basf/codingtest/chemicals/patent/IPatentService.java
+/Users/ivanlaraarranz/Desktop/basfCodingChallenge/src/main/java/com/basf/codingtest/chemicals/exceptions/ApiResponseError.java
+/Users/ivanlaraarranz/Desktop/basfCodingChallenge/src/main/java/com/basf/codingtest/chemicals/patent/PatentService.java

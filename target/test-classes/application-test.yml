@@ -1,0 +1,32 @@
+server:
+  port: 8082
+
+spring:
+  batch:
+    initializer:
+      enabled: false
+    job:
+      enabled: false
+
+  data:
+    mongodb:
+      authentication-database: chemicalPatents
+      host: localhost
+      port: 27017
+      username: chemicalsUser
+      password: chemicalsPass
+      database: chemicalPatents
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 50MB
+      max-request-size: 50MB
+
+chemicals:
+  patents:
+    source: src/test/resources/
+    loaded: src/test/resources/loaded
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui

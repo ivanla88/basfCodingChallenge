@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.basf.codingtest.chemicals.patent.PatentControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.672 s <<< FAILURE! - in com.basf.codingtest.chemicals.patent.PatentControllerTest
+create_entry_in_database_for_input_file  Time elapsed: 0.003 s  <<< ERROR!
+java.io.FileNotFoundException: src/test/resources/testFile1.xml (No such file or directory)
+	at com.basf.codingtest.chemicals.patent.PatentControllerTest.create_entry_in_database_for_input_file(PatentControllerTest.java:41)
+

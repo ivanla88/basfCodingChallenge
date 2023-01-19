@@ -1,0 +1,32 @@
+server:
+  port: 8082
+
+spring:
+  batch:
+    initializer:
+      enabled: false
+    job:
+      enabled: false
+
+  data:
+    mongodb:
+      authentication-database: ${PATENTS_CONFIG_MONGODB_AUTH_DATABASE}
+      host: ${PATENTS_CONFIG_MONGODB_URL}
+      port: ${PATENTS_CONFIG_MONGODB_PORT}
+      username: ${PATENTS_CONFIG_MONGODB_USER}
+      password: ${PATENTS_CONFIG_MONGODB_PASS}
+      database: ${PATENTS_CONFIG_MONGODB_DATABASE}
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 50MB
+      max-request-size: 50MB
+
+chemicals:
+  patents:
+    source: /usr/app/sources
+    loaded: /usr/app/sources/loaded
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui

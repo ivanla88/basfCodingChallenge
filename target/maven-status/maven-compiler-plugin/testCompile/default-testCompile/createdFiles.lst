@@ -1,0 +1,6 @@
+com/basf/codingtest/chemicals/patent/PatentMapperTest.class
+com/basf/codingtest/chemicals/utils/FileUtilsTest.class
+com/basf/codingtest/chemicals/patent/PatentServiceTest.class
+com/basf/codingtest/chemicals/utils/DateUtilsTest.class
+com/basf/codingtest/chemicals/patent/PatentControllerTest.class
+com/basf/codingtest/chemicals/patent/PatentControllerTest$1.class

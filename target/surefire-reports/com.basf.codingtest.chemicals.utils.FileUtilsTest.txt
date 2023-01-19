@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.basf.codingtest.chemicals.utils.FileUtilsTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in com.basf.codingtest.chemicals.utils.FileUtilsTest
+com.basf.codingtest.chemicals.utils.FileUtilsTest  Time elapsed: 0 s  <<< ERROR!
+org.junit.platform.commons.JUnitException: @AfterAll method 'public void com.basf.codingtest.chemicals.utils.FileUtilsTest.deleteFile()' must be static unless the test class is annotated with @TestInstance(Lifecycle.PER_CLASS).
+

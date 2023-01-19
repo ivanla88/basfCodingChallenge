@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questel-patent-document lang="en" date-produced="20200513" produced-by="Questel" schema-version="3.23" file="US06063050A.xml">
+  <bibliographic-data lang="en">
+    <publication-reference publ-desc="Patents Granted before 2001-04-15">
+      <document-id>
+        <country>US</country>
+        <doc-number>06063050</doc-number>
+        <kind>A</kind>
+        <date>20000516</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>US6063050</doc-number>
+      </document-id>
+    </publication-reference>
+    <original-publication-kind>A</original-publication-kind>
+    <application-reference family-id="25429905" extended-family-id="58781641">
+      <document-id>
+        <country>US</country>
+        <doc-number>09174276</doc-number>
+        <kind>A</kind>
+        <date>19981016</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>1998US-09174276</doc-number>
+      </document-id>
+      <document-id data-format="questel_Uid">
+        <doc-number>60055826</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>en</language-of-filing>
+    <language-of-publication>en</language-of-publication>
+    <invention-title format="original" lang="en" id="title_en">Test file 2 Title</invention-title>
+    <examiners>
+      <primary-examiner>
+        <name>Yasko, John D.</name>
+      </primary-examiner>
+    </examiners>
+    <lgst-data>
+      <lgst-status>EXPIRED</lgst-status>
+    </lgst-data>
+  </bibliographic-data>
+  <abstract format="original" lang="en" id="abstr_en">
+    <p id="P-EN-00001" num="00001">
+      Test file 1 Content
+    </p>
+  </abstract>
+</questel-patent-document>
