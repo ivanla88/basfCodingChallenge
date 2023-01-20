@@ -1,6 +1,8 @@
 package com.basf.codingtest.chemicals.patent;
 
+import com.basf.codingtest.chemicals.common.Constants;
 import com.basf.codingtest.chemicals.exceptions.IncorrectInputFileException;
+import com.basf.codingtest.chemicals.ner.INERService;
 import com.basf.codingtest.chemicals.utils.DateUtils;
 import com.basf.codingtest.chemicals.utils.FileUtils;
 import org.slf4j.Logger;
@@ -35,10 +37,13 @@ public class PatentService implements IPatentService{
 
     private final IPatentRepository patentRepository;
 
+    private final INERService inerService;
+
     private final PatentMapper mapper;
 
-    public PatentService(IPatentRepository patentRepository, PatentMapper mapper) {
+    public PatentService(IPatentRepository patentRepository, INERService inerService, PatentMapper mapper) {
         this.patentRepository = patentRepository;
+        this.inerService = inerService;
         this.mapper = mapper;
     }
 
@@ -75,11 +80,15 @@ public class PatentService implements IPatentService{
         } catch (ParserConfigurationException | IOException | SAXException e) {
             throw new IncorrectInputFileException("Error reading content file", e);
         }
+
+        List<String> entities = inerService.filterWords(abstractContent, Constants.TYPE_ENTITIES_TO_IDENTIFY);
+
         Patent newElement = Patent.builder()
                 .fileName(patentFile.getName())
                 .abstractContent(abstractContent)
                 .title(titleContent)
                 .year(DateUtils.parseStringDate(yearContent, "yyyyMMdd").getYear())
+                .entities(entities)
                 .build();
 
         newElement = patentRepository.save(newElement);

@@ -6,6 +6,8 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.util.List;
+
 @Data
 @Builder
 @AllArgsConstructor
@@ -24,4 +26,7 @@ public class PatentDto {
 
     @Schema(description="Title of the patent document", example = "Patent Name", type = "String")
     private String title;
+
+    @Schema(description="List of entities identified")
+    private List<String> entities;
 }

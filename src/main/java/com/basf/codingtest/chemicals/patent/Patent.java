@@ -6,6 +6,8 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.springframework.data.mongodb.core.mapping.Document;
 
+import java.util.List;
+
 @Document("patents")
 @Data
 @Builder
@@ -17,4 +19,5 @@ public class Patent {
     private String abstractContent;
     private Integer year;
     private String title;
+    private List<String> entities;
 }
