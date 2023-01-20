@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questel-patent-document lang="en" date-produced="20190901" produced-by="Questel" schema-version="3.23" file="US06176993B1.xml">
+  <bibliographic-data lang="en">
+    <publication-reference publ-desc="Granted patent as first publication">
+      <document-id>
+        <country>US</country>
+        <doc-number>06176993</doc-number>
+        <kind>B1</kind>
+        <date>20010123</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>US6176993</doc-number>
+      </document-id>
+    </publication-reference>
+    <original-publication-kind>B1</original-publication-kind>
+    <application-reference is-representative="YES" family-id="21632095" extended-family-id="42109446">
+      <document-id>
+        <country>US</country>
+        <doc-number>09246959</doc-number>
+        <kind>A</kind>
+        <date>19990209</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>1999US-09246959</doc-number>
+      </document-id>
+      <document-id data-format="questel_Uid">
+        <doc-number>43166233</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>en</language-of-filing>
+    <language-of-publication>en</language-of-publication>
+    <priority-claims>
+      <priority-claim kind="national" sequence="1">
+        <country>TW</country>
+        <doc-number>87119642</doc-number>
+        <kind>A</kind>
+        <date>19981126</date>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="1">
+        <doc-number>1998TW-0119642</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability>
+      <publication-of-grant-date>
+        <date>20010123</date>
+      </publication-of-grant-date>
+    </dates-of-public-availability>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>C25D  21/18        20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>C</section>
+        <class>25</class>
+        <subclass>D</subclass>
+        <main-group>21</main-group>
+        <subgroup>18</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H01L  21/316       20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>21</main-group>
+        <subgroup>316</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <classification-national>
+      <country>US</country>
+      <main-classification>
+        <text>205101000</text>
+        <class>205</class>
+        <subclass>101000</subclass>
+      </main-classification>
+      <further-classification sequence="1">
+        <text>205099000</text>
+        <class>205</class>
+        <subclass>099000</subclass>
+      </further-classification>
+      <further-classification sequence="2">
+        <text>205109000</text>
+        <class>205</class>
+        <subclass>109000</subclass>
+      </further-classification>
+      <further-classification sequence="3">
+        <text>257E21271</text>
+        <class>257</class>
+        <subclass>E21271</subclass>
+      </further-classification>
+    </classification-national>
+    <classifications-ecla>
+      <classification-ecla sequence="1">
+        <text>C25D-021/18</text>
+        <section>C</section>
+        <class>25</class>
+        <subclass>D</subclass>
+        <main-group>21</main-group>
+        <subgroup>18</subgroup>
+      </classification-ecla>
+      <classification-ecla sequence="2">
+        <text>H01L-021/316</text>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>21</main-group>
+        <subgroup>316</subgroup>
+      </classification-ecla>
+    </classifications-ecla>
+    <patent-classifications>
+      <patent-classification sequence="1">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>C25D-021/18</classification-symbol>
+        <section>C</section>
+        <class>25</class>
+        <subclass>D</subclass>
+        <main-group>21</main-group>
+        <subgroup>18</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20190228</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="2">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H01L-021/316</classification-symbol>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>21</main-group>
+        <subgroup>316</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20190228</date>
+        </action-date>
+      </patent-classification>
+    </patent-classifications>
+    <number-of-claims>10</number-of-claims>
+    <exemplary-claim>1</exemplary-claim>
+    <figures>
+      <number-of-drawing-sheets>0</number-of-drawing-sheets>
+      <number-of-figures>0</number-of-figures>
+      <image-key data-format="questel">US6176993</image-key>
+    </figures>
+    <invention-title format="original" lang="en" id="title_en">Process for recycling reaction system of electroplating passivation of wafers</invention-title>
+    <references-cited>
+      <citation srep-phase="examiner">
+        <patcit num="1">
+          <text>MORI KAZUHIKO, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5283131</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5283131</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="2">
+          <text>SPECKMANN HORST-DIETER, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5503733</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5503733</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="3">
+          <text>INO TAKAYUKI, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5766440</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5766440</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <parties>
+      <applicants>
+        <applicant data-format="original" app-type="applicant" sequence="1">
+          <addressbook lang="en">
+            <orgname>General Semiconductor of Taiwan, Ltd.</orgname>
+            <address>
+              <address-1>Taipei, TW</address-1>
+              <city>Taipei</city>
+              <country>TW</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>TW</country>
+          </nationality>
+        </applicant>
+        <applicant data-format="questel" app-type="applicant" sequence="2">
+          <addressbook lang="en">
+            <orgname>GENERAL SEMICONDUCTOR OF TAIWAN</orgname>
+          </addressbook>
+          <nationality>
+            <country>TW</country>
+          </nationality>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="original" sequence="1">
+          <addressbook lang="en">
+            <name>Chiou, Jemy Chien-Wen</name>
+            <address>
+              <address-1>Taipei, TW</address-1>
+              <city>Taipei</city>
+              <country>TW</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>TW</country>
+          </nationality>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook lang="en">
+            <orgname>Mayer, Fortkort &amp; Williams, LLC</orgname>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <examiners>
+      <primary-examiner>
+        <name>Gorgos, Kathryn</name>
+      </primary-examiner>
+    </examiners>
+    <lgst-data>
+      <lgst-status>LAPSED</lgst-status>
+    </lgst-data>
+  </bibliographic-data>
+  <abstract format="original" lang="en" id="abstr_en">
+    <p id="P-EN-00001" num="00001">
+      <br/>
+      A process for recycling a reaction system of electroplating passivation of wafers, in which lanthanum hydroxide (La(OH)3) or magnesium hydroxide (Mg(OH)2) is added to supplement the lanthanum ion or magnesium ion consumed in an electroplating solution when the pH of the electroplating solution decreases to a range from 0.1 to 0.4.
+    </p>
+  </abstract>
+  <description format="original" lang="en" id="desc_en">
+    <p num="1">
+      <h1 align="LEFT">FIELD OF THE INVENTION</h1>
+    </p>
+    <p num="2">The present invention relates to a process for recycling a reaction system of electroplating passivation of wafer. More particularly, the present invention relates to a process for recycling a reaction system of electroplating passivation of wafer for improving the recycling efficiency and increasing the economic advantages thereof.</p>
+    <p num="3">
+      <h1 align="LEFT">BACKGROUND OF THE INVENTION</h1>
+    </p>
+    <p num="4">Batch electroplating passivation reaction predominates the current electrical industry, particularly in the manufacture of wafers. To obtain the optimal stabilization of electrical properties and reliability of products, it is typical to manufacture products with stricter property requirement in a small production. For products in a mass production, electroplating solutions should be removed when a specific production is achieved.</p>
+    <p num="5">For a general process for electroplating passivation of glasses, the electroplating solution used comprises isopropanol, water, lanthanum nitrate, and a glass powder, in which lanthanum ion is used as a carrier of the glass powder so that the glass powder is passivated on the object being deposited. Due to the collection of pollutants and the consumption of additives or uncompensible effect, the quality of the electroplating solution is getting worse and the efficiency of the electrolysis is poor, especially when the electrolysis is conducted in a batch system reactor. The poor efficiency of electrolysis will directly reduce the current reaction induced thereby. Even worse, the electrolysis will not take place.</p>
+    <p num="6">
+      To solve the problem of poor quality of the electroplating solution, the most common measure is to directly replenish reactants consumed during electrolysis, i.e., to replenish lanthanum nitrate. However, the above measure will result in a collection of NO
+      <sub>3</sub>
+      <sup>−</sup>
+      as a by-product so that the electrolysis is negatively influenced. Hence, the manufacture of wafers will be negatively influenced. Generally speaking, for an electroplating solution comprising a lanthanum ion of lanthanum nitrate as the carrier of the glass powder, when the concentration of the electroplating solution decreases to 70% of the original concentration, the electroplating solution should be removed to maintain the electroplating property. Thus, the cost of the manufacture will be highly increased. In considering a reasonable cost and a mass production satisfying the demand of market, it is worthwhile to search an economically recyclable electroplating solution.
+    </p>
+    <p num="7">U.S. Pat. No. 4,233,133 discloses a passivating bath for a semiconductive body and a process for protectively coating a semiconductive body by immersing the same in a bath having particles of a vitreous or ceramic passivating material suspended therein. The bath is formed by suspending passivating particles such as glass thereinto. The bath consists essentially of an organic solvent such as acetone, an amine and a hydrohalogenic acid in proportions yielding a preferable alkaline pH between 4 and 10. This patent uses a batch electroplating passivation reaction for a passivation process and no recycling of electroplating solution is disclosed .</p>
+    <p num="8">U.S. Pat. No. 3,642,597 is directed to a process for passivating a junction containing semiconductive elements comprising applying an electrically insulative coating to selected surface areas of a junction containing semiconductive wafer, etching the semiconductive wafer through the exposed surface areas to form a depression extending to a depth below at least one junction, removing the portions of the insulative coating undercut in etching, and depositing a junction passivant within the etched depression of the semiconductive wafer. This patent uses a batch electroplating passivation reaction for a passivation process and the used electroplating solution cannot be recycled to extend the time for depositing.</p>
+    <p num="9">
+      <h1 align="LEFT">SUMMARY OF THE INVENTION</h1>
+    </p>
+    <p num="10">The object of the present invention is to provide a process for recycling a reaction system of electroplating passivation of wafers.</p>
+    <p num="11">Another object of the present invention is to provide a process for recycling a reaction system of electroplating passivation of wafers, in which a semibatch (continuous) process is used to conduct a electroplating deposition reaction.</p>
+    <p num="12">Yet another object of the invention is to provide a process for recycling a reaction system of electroplating passivation of wafers, in which a semibatch (continuous) process is used to conduct a electroplating deposition reaction and lanthanum hydroxide is added (when lanthanum nitrate is used to provide lanthanum ions acting as a carrier) or magnesium hydroxide is added (when lanthanum hydroxide is used to provide a lanthanum ion as a carrier) to supplement lanthanum ions or magnesium ions consumed in the electroplating solution during the electrolysis.</p>
+    <p num="13">Yet another object of the present invention is to provide a process for recycling a reaction system of electroplating passivation of wafers, in which the yield of the manufacture of wafers is increased by a few times and an economical effect is achieved.</p>
+    <p num="14">The above features and advantages of the present invention will be better understood with reference to the detailed description and examples. It should also be understood that the process for recycling a reaction system of electroplating passivation of wafers illustrating the present invention is exemplary only and not to be regarded as a limitation of the invention.</p>
+    <p num="15">
+      <h1 align="LEFT">DETAILED DESCRIPTION OF THE INVENTION</h1>
+    </p>
+    <p num="16">By way of illustration and to provide a more complete appreciation of the present invention with many of the attendant advantages thereof, the following detailed description is given concerning the process for recycling a reaction system of electroplating passivation of wafers.</p>
+    <p num="17">
+      The present invention relates to a process for recycling a reaction system of electroplating passivation of wafer, in which lanthanum hydroxide (La(OH)
+      <sub>3</sub>
+      ) is added (when lanthanum nitrate is used to provide lanthanum ions as a carrier) or magnesium hydroxide (Mg(OH)
+      <sub>2</sub>
+      ) is added (when lanthanum hydroxide is used to provide a lanthanum ion as a carrier) to supplement the lanthanum ion or magnesium ion consumed in an electroplating solution when pH of the electroplating solution decreases to a range from 0.1 to 0.4, preferably when pH of the electroplating solution decrease to 0.4.
+    </p>
+    <p num="18">The additive dissolves in acid and supplements lanthanum ions or magnesium ions consumed in the electroplating solution. The amount of the additive is generally a half to one-fourth of the theoretical amount to avoid the negative influence on the electroplating solution caused by the additive which cannot quickly dissolve in time. After the additive is added, the pH of the electroplating solution is controlled within a range of the original pH and a value below 0.4 from the original pH by an automatic addition system.</p>
+    <p num="19">The electroplating solution comprises a solvent, water, a carrier material, and a passivant material.</p>
+    <p num="20">The solvent may be an alcohol, such as isopropanol, n-butanol, isobutanol, or a solvent having similar viscosity, dielectric constant, and molecular structure.</p>
+    <p num="21">Water is preferably a de-ionized water.</p>
+    <p num="22">The carrier material may be lanthanum nitrate or magnesium hydroxide. Lanthanum nitrate provides lanthanum ions for the carrier of the passivant material. Magnesium hydroxide provides magnesium ions for the carrier of the passivant material.</p>
+    <p num="23">The passivant material can be dielectric material, preferably a glass powder.</p>
+    <p num="24">In the electroplating solution, a chemically inert metal is used as an anode, preferably a platinum anode.</p>
+    <p num="25">In the electroplating solution, an object which can be deposited, a wafer, is used as a cathode.</p>
+    <p num="26">The electroplating solution of the present invention will be explained with respect to the components of the electroplating solution, initial effect and addition effect when an additive is added.</p>
+    <p num="27">The components of the electroplating solution comprise isopropanol, de-ionized water, lanthanum nitrate, and a glass powder.</p>
+    <p num="28">Total Reaction of the Electroplating Solution</p>
+    <p num="29">
+      <in-line-formulae>
+        La(NO
+        <sub>3</sub>
+        )
+        <sub>3</sub>
+        →La
+        <sup>3+</sup>
+        +3NO
+        <sub>3</sub>
+        <sup>−</sup>
+      </in-line-formulae>
+    </p>
+    <p num="30">
+      <in-line-formulae>
+        La
+        <sup>3+</sup>
+        +glass powder→La*(glass)
+        <sup>3+</sup>
+      </in-line-formulae>
+    </p>
+    <p num="31">Lanthanum nitrate dissolves in the electroplating solution as a lanthanum ion and a nitrate ion. The lanthanum ion is then bonded with the glass powder in the electroplating solution and acts as a carrier of the glass powder.</p>
+    <p num="32">Initial Effect: In the electroplating passivation of glass, the materials that are directly consumed are the glass powder, de-ionized water and the lanthanum ion of lanthanum nitrate, as illustrated in reaction schemes (1) and (2).</p>
+    <p num="33">Cathode Reaction</p>
+    <p num="34">
+      <in-line-formulae>
+        H
+        <sub>2</sub>
+        O+2e
+        <sup>−</sup>
+        →2OH
+        <sup>−</sup>
+        +H
+        <sub>2</sub>
+          (1)
+      </in-line-formulae>
+    </p>
+    <p num="35">
+      <in-line-formulae>
+        La*(glass)
+        <sup>3+</sup>
+        +3OH
+        <sup>−</sup>
+        →La(OH)
+        <sub>3</sub>
+        *(glass)  (2)
+      </in-line-formulae>
+    </p>
+    <p num="36">
+      Lanthanum ion (La
+      <sup>+3</sup>
+      ) and de-ionized water are critical consumed reactants during the reaction. If lanthanum nitrate is directly added into the electroplating solution, the lanthanum ion is supplemented in time. However, water is still consumed in the reaction. The electrolysis efficiency is not improved and even declined. If de-ionized water is added directly, the added amount will be a factor which cannot be controlled. Furthermore, the direct supplement of lanthanum nitrate will result in a collection of nitrate ions and a risk to corrode the wafer. In addition, the hydrogen ion (H
+      <sup>+</sup>
+      ) produced at the anode will not be neutralized so that the pH of the electroplating solution gradually decreases (scheme 3).
+    </p>
+    <p num="37">Anode Reaction</p>
+    <p num="38">
+      <in-line-formulae>
+        2H
+        <sup>+</sup>
+        +½O
+        <sub>2</sub>
+        ←H
+        <sub>2</sub>
+        O−2e
+        <sup>31</sup>
+          (3)
+      </in-line-formulae>
+    </p>
+    <p num="39">Effect of the Supplement of Additive: As mentioned above, to supplement a lanthanum ion with the direct addition of lanthanum nitrate will result in residual nitrate ion and the problem that the water is in shortage. To recycle the electroplating solution and magnify the economic scale, lanthanum hydroxide is added into the electroplating solution, as illustrated in reaction scheme (4):</p>
+    <p num="40">
+      <in-line-formulae>
+        La(OH)
+        <sub>3</sub>
+        →La
+        <sup>3+</sup>
+        +3OH
+        <sup>−</sup>
+          (4)
+      </in-line-formulae>
+    </p>
+    <p num="41">The supplemented lanthanum hydroxide dissolves as a lanthanum ion and hydroxide ion. Hydroxide ion is bonded with hydrogen ions in the electroplating solution to form water. The lanthanum ions and water consumed during the reaction are sufficiently supplemented and the residual nitrate ion and the erosion of wafers derived therefrom are avoided. The consumed lanthanum ion and water can be supplemented with a specific amount. The supplement can be adjusted depending on the pH value to highly increase the recycling rate of electroplating solution and improve the electrical property and reliability of products. The electroplating conditions are mainly directed to the control of pH in the electroplating solution or the control of current density as an auxiliary. Persons skilled in the art are familiar with the setting of electroplating conditions and can choose appropriate ones to practice the present invention.</p>
+    <p num="42">
+      <h1>DETAILED DESCRIPTION</h1>
+    </p>
+    <p num="43">The process for recycling a reaction system of electroplating passivation of wafers of the present invention will now be further illustrated with reference to the following example.</p>
+    <p num="44">
+      <h1 align="LEFT">EXAMPLE</h1>
+    </p>
+    <p num="45">An electroplating solution comprising 1 liter of isopropanol, 0.27 gram of lanthanum nitrate, 25 ml of de-ionized water, and 100 gram glass powder is used. A wafer is used as a cathode. Platinum is used as an anode. The reaction of electroplating passivation of glass on wafer is conducted and the results are shown in Table 1.</p>
+    <p num="46">
+      <tables id="TABLE-US-00001">
+        <table align="LEFT" border="0" width="100%">
+          <colgroup>
+            <col align="CENTER"/>
+            <col align="CENTER"/>
+            <col align="CENTER"/>
+            <col align="CENTER"/>
+            <col align="CENTER"/>
+          </colgroup>
+          <thead>
+            <tr>
+              <th colspan="5" style="border-bottom:thin solid black">TABLE 1</th>
+            </tr>
+            <tr>
+              <th colspan="5" align="CENTER" style="border-bottom:thin solid black"> </th>
+            </tr>
+            <tr>
+              <th> </th>
+              <th>supplement</th>
+              <th>the initial</th>
+              <th>numbers of</th>
+              <th>yield</th>
+            </tr>
+            <tr>
+              <th>day</th>
+              <th>
+                La(OH)
+                <sub>3</sub>
+              </th>
+              <th>pH</th>
+              <th>wafers</th>
+              <th>(%)</th>
+            </tr>
+            <tr>
+              <th colspan="5" align="CENTER" style="border-bottom:thin solid black"> </th>
+            </tr>
+          </thead>
+          <tbody valign="TOP">
+            <tr>
+              <td>1</td>
+              <td> </td>
+              <td>4.39</td>
+              <td>10</td>
+              <td>86.75</td>
+            </tr>
+            <tr>
+              <td> </td>
+              <td> </td>
+              <td>4.33</td>
+              <td>48</td>
+              <td>93.94</td>
+            </tr>
+            <tr>
+              <td>7</td>
+              <td> </td>
+              <td>(4.24*)</td>
+              <td> </td>
+            </tr>
+            <tr>
+              <td>9</td>
+              <td>0.7 gram</td>
+              <td>4.39</td>
+              <td>72</td>
+              <td>92.53</td>
+            </tr>
+            <tr>
+              <td>10</td>
+              <td> </td>
+              <td>4.38</td>
+              <td>106</td>
+              <td>86.23</td>
+            </tr>
+            <tr>
+              <td colspan="5" align="CENTER" style="border-bottom:thin solid black"> </td>
+            </tr>
+            <tr>
+              <td colspan="5" align="LEFT">
+                <sup id="FOO-00001">*the final pH at eighth day</sup>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </tables>
+    </p>
+    <p num="47">In view of Table 1, the initial pH value is 4.33 at seventh day and the final pH value on the same day is 4.24. It indicates that the concentration of the lanthanum ion in the electroplating solution drops to the extent that supplement should be made. The number of wafers which are passivated with glass is 48. The pH value increases to the initial value on the first day after 0.7 gram of lanthanum hydroxide is added. The number of wafers which are passivated with glass is up to 106 on the tenth day. The effects of recycling of the electroplating solution and saving the cost in exchanging can be achieved by properly supplementing lanthanum hydroxide.</p>
+    <p num="48">The present invention may, of course, be carried out in other specific ways than those herein set forth without departing from the spirit and essential characteristics of the present invention. The present embodiments are, therefore, to be considered in all respects as an illustration and not restrictive. Therefore, any changes coming within the meaning and equivalency range of the appended claims are to be embraced therein.</p>
+  </description>
+  <claims format="original" lang="en" id="claim_en">
+    <claim num="1">
+      <claim-text>
+        <h1 align="LEFT">I claim:</h1>
+      </claim-text>
+      <claim-text>
+        1. A process for recycling a reaction system of electroplating passivation of wafers, in which lanthanum hydroxide (La(OH)
+        <sub>3</sub>
+        ) or magnesium hydroxide (Mg(OH)
+        <sub>2</sub>
+        ) is added to supplement the lanthanum ion or magnesium ion consumed in an electroplating solution when the pH of the electroplating solution decreases from an initial H value to a value within the range from 0.1 to 0.4 less than the initial pH value, so as to recycle the reaction system of electroplating passivation of wafers.
+      </claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>
+        2. A process according to claim
+        <b>1</b>
+        , wherein the magnesium hydroxide is added when the electroplating solution contains magnesium nitrate.
+      </claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>
+        3. A process according to claim
+        <b>1</b>
+        , wherein the amount of lanthanum hydroxide or magnesium hydroxide added is a half to one-fourth of a theoretical amount of lanthanum hydroxide or magnesium hydroxide to be added.
+      </claim-text>
+    </claim>
+    <claim num="4">
+      <claim-text>
+        4. A process according to claim
+        <b>1</b>
+        , wherein the electroplating solution comprises an alcohol, water, a carrier material, and a passivant material.
+      </claim-text>
+    </claim>
+    <claim num="5">
+      <claim-text>
+        5. A process according to claim
+        <b>4</b>
+        , wherein the passivant material is a dielectric material.
+      </claim-text>
+    </claim>
+    <claim num="6">
+      <claim-text>
+        6. A process according to claim
+        <b>4</b>
+        , wherein the alcohol is isopropanol, n-butanol, isobutanol.
+      </claim-text>
+    </claim>
+    <claim num="7">
+      <claim-text>
+        7. A process according to claim
+        <b>1</b>
+        , wherein the wafer is used as a cathode and a chemically inert metal is used as an anode.
+      </claim-text>
+    </claim>
+    <claim num="8">
+      <claim-text>
+        8. A process according to claim
+        <b>7</b>
+        , wherein platinum is used as an anode.
+      </claim-text>
+    </claim>
+    <claim num="9">
+      <claim-text>
+        9. A process, for recycling a reaction,, system of electroplating passivation of wafers, in which lanthanum hydroxide (La(OH)
+        <sub>3</sub>
+        ) is added to supplement the lanthanum ion consumed in an electroplating solution when the pH of the electroplating solution decrease from an initial pH value to a value within the range from 0.1 to 0.4 less than the initial pH value.
+      </claim-text>
+    </claim>
+    <claim num="10">
+      <claim-text>10. A process for recycling a reaction system of electroplating passivation of wafers, in which lanthanum hydroxide (La(OH)3) or magnesium hydroxide (Mg(OH)2) is added to supplement the lanthanum ion or magnesium ion consumed in an electroplating solution when the pH of the electroplating solution decreases from an initial pH value lo a value within the a from 0.1 to 0.4 less than the initial pH value,</claim-text>
+      <claim-text>wherein the electroplating solution comprises an alcohol, water, a carrier material, and a passivant material,</claim-text>
+      <claim-text>wherein the passivant material is a dielectric material, and</claim-text>
+      <claim-text>wherein the dielectric material is a glass powder.</claim-text>
+    </claim>
+  </claims>
+</questel-patent-document>

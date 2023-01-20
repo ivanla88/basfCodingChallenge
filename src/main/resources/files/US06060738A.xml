@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questel-patent-document lang="en" date-produced="20190901" produced-by="Questel" schema-version="3.23" file="US06060738A.xml">
+  <bibliographic-data lang="en">
+    <publication-reference publ-desc="Patents Granted before 2001-04-15">
+      <document-id>
+        <country>US</country>
+        <doc-number>06060738</doc-number>
+        <kind>A</kind>
+        <date>20000509</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>US6060738</doc-number>
+      </document-id>
+    </publication-reference>
+    <original-publication-kind>A</original-publication-kind>
+    <application-reference family-id="17902468" extended-family-id="21136999">
+      <document-id>
+        <country>US</country>
+        <doc-number>08546746</doc-number>
+        <kind>A</kind>
+        <date>19951023</date>
+      </document-id>
+      <document-id data-format="questel">
+        <doc-number>1995US-08546746</doc-number>
+      </document-id>
+      <document-id data-format="questel_Uid">
+        <doc-number>21675777</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>en</language-of-filing>
+    <language-of-publication>en</language-of-publication>
+    <priority-claims>
+      <priority-claim kind="national" sequence="1">
+        <country>US</country>
+        <doc-number>54674695</doc-number>
+        <kind>A</kind>
+        <date>19951023</date>
+        <priority-active-indicator>N</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="1">
+        <doc-number>1995US-08546746</doc-number>
+      </priority-claim>
+      <priority-claim kind="national" sequence="2">
+        <country>JP</country>
+        <doc-number>30189993</doc-number>
+        <kind>A</kind>
+        <date>19931201</date>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="2">
+        <doc-number>1993JP-0301899</doc-number>
+      </priority-claim>
+      <priority-claim kind="national" sequence="3">
+        <country>US</country>
+        <doc-number>34202494</doc-number>
+        <kind>A</kind>
+        <date>19941116</date>
+        <priority-linkage-type>3</priority-linkage-type>
+        <priority-active-indicator>N</priority-active-indicator>
+      </priority-claim>
+      <priority-claim data-format="questel" sequence="3">
+        <doc-number>1994US-08342024</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability>
+      <publication-of-grant-date>
+        <date>20000509</date>
+      </publication-of-grant-date>
+    </dates-of-public-availability>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1">
+        <text>H01L  27/108       20060101ALI20051220RMJP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>27</main-group>
+        <subgroup>108</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>JP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051220</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>H01L  21/336       20060101ALI20051220RMJP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>21</main-group>
+        <subgroup>336</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>JP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051220</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>H01L  21/8238      20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>21</main-group>
+        <subgroup>8238</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>H01L  21/8242      20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>21</main-group>
+        <subgroup>8242</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="5">
+        <text>H01L  21/8244      20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>21</main-group>
+        <subgroup>8244</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="6">
+        <text>H01L  21/84        20060101A I20051008RMEP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>21</main-group>
+        <subgroup>84</subgroup>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="7">
+        <text>H01L  27/10        20060101ALI20051220RMJP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>27</main-group>
+        <subgroup>10</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>JP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051220</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="8">
+        <text>H01L  29/78        20060101ALI20051220RMJP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>29</main-group>
+        <subgroup>78</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>JP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051220</date>
+        </action-date>
+      </classification-ipcr>
+      <classification-ipcr sequence="9">
+        <text>H01L  29/786       20060101ALI20051220RMJP</text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>29</main-group>
+        <subgroup>786</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <generating-office>
+          <country>JP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+        <action-date>
+          <date>20051220</date>
+        </action-date>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <classification-national>
+      <country>US</country>
+      <main-classification>
+        <text>257306000</text>
+        <class>257</class>
+        <subclass>306000</subclass>
+      </main-classification>
+      <further-classification sequence="1">
+        <text>257296000</text>
+        <class>257</class>
+        <subclass>296000</subclass>
+      </further-classification>
+      <further-classification sequence="2">
+        <text>257303000</text>
+        <class>257</class>
+        <subclass>303000</subclass>
+      </further-classification>
+      <further-classification sequence="3">
+        <text>257E21632</text>
+        <class>257</class>
+        <subclass>E21632</subclass>
+      </further-classification>
+      <further-classification sequence="4">
+        <text>257E21654</text>
+        <class>257</class>
+        <subclass>E21654</subclass>
+      </further-classification>
+      <further-classification sequence="5">
+        <text>257E21661</text>
+        <class>257</class>
+        <subclass>E21661</subclass>
+      </further-classification>
+      <further-classification sequence="6">
+        <text>257E21703</text>
+        <class>257</class>
+        <subclass>E21703</subclass>
+      </further-classification>
+    </classification-national>
+    <patent-classifications>
+      <patent-classification sequence="1">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H01L-027/10873</classification-symbol>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>27</main-group>
+        <subgroup>10873</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="2">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H01L-021/8238</classification-symbol>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>21</main-group>
+        <subgroup>8238</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="3">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H01L-021/84</classification-symbol>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>21</main-group>
+        <subgroup>84</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="4">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>H01L-027/11</classification-symbol>
+        <section>H</section>
+        <class>01</class>
+        <subclass>L</subclass>
+        <main-group>27</main-group>
+        <subgroup>11</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </patent-classification>
+      <patent-classification sequence="5">
+        <classification-scheme office="EP" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>Y10S-148/15</classification-symbol>
+        <section>Y</section>
+        <class>10</class>
+        <subclass>S</subclass>
+        <main-group>148</main-group>
+        <subgroup>15</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20130518</date>
+        </action-date>
+      </patent-classification>
+    </patent-classifications>
+    <number-of-claims>14</number-of-claims>
+    <exemplary-claim>1</exemplary-claim>
+    <figures>
+      <number-of-drawing-sheets>27</number-of-drawing-sheets>
+      <number-of-figures>138</number-of-figures>
+      <image-key data-format="questel">US6060738</image-key>
+    </figures>
+    <invention-title format="original" lang="en" id="title_en">Semiconductor device having SOI structure</invention-title>
+    <references-cited>
+      <citation srep-phase="examiner">
+        <patcit num="1">
+          <text>MALHI SATWINDER D S</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4621276</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4621276</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="2">
+          <text>MALHI SATWINDER D S</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4677735</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4677735</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="3">
+          <text>MASHIKO KOICHIRO</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4896197</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4896197</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="4">
+          <text>COLEMAN DONALD J, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>4922312</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4922312</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="5">
+          <text>YAMAGUCHI YASUO, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5125007</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5125007</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="6">
+          <text>COLEMAN DONALD J, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5359216</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5359216</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="7">
+          <text>AJIKA NATSUO, et al</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5381365</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5381365</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="8">
+          <text>KITA AKIO</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5442211</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5442211</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="9">
+          <text>YUN JOO-YOUNG</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5453633</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5453633</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="10">
+          <text>KIM JAE K</text>
+          <document-id>
+            <country>US</country>
+            <doc-number>5565372</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5565372</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="11">
+          <text>MITSUBISHI ELECTRIC CORP</text>
+          <document-id>
+            <country>DE</country>
+            <doc-number>4102184</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>DE4102184</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="12">
+          <text>FUJITSU LTD</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>S594158</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP59004158</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="13">
+          <text>FUJITSU LTD</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>S59112646</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP59112646</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="14">
+          <text>TOSHIBA CORP</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>S6158266</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP61058266</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation srep-phase="examiner">
+        <patcit num="15">
+          <text>MATSUSHITA ELECTRONICS CORP</text>
+          <document-id>
+            <country>JP</country>
+            <doc-number>S62248248</doc-number>
+            <kind>A</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP62248248</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="16">
+          <document-id>
+            <country>US</country>
+            <doc-number>4621276</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4621276</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="17">
+          <document-id>
+            <country>US</country>
+            <doc-number>4677735</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4677735</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="18">
+          <document-id>
+            <country>US</country>
+            <doc-number>4896197</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4896197</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="19">
+          <document-id>
+            <country>US</country>
+            <doc-number>4922312</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US4922312</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="20">
+          <document-id>
+            <country>US</country>
+            <doc-number>5125007</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5125007</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="21">
+          <document-id>
+            <country>US</country>
+            <doc-number>5359216</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5359216</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="22">
+          <document-id>
+            <country>US</country>
+            <doc-number>5381365</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5381365</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="23">
+          <document-id>
+            <country>US</country>
+            <doc-number>5442211</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5442211</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="24">
+          <document-id>
+            <country>US</country>
+            <doc-number>5453633</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5453633</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="25">
+          <document-id>
+            <country>US</country>
+            <doc-number>5565372</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>US5565372</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="26">
+          <document-id>
+            <country>DE</country>
+            <doc-number>4102184</doc-number>
+            <kind>A1</kind>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>DE4102184</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="27">
+          <document-id>
+            <country>JP</country>
+            <doc-number>59-4158</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP59004158</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="28">
+          <document-id>
+            <country>JP</country>
+            <doc-number>59-112646</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP59112646</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="29">
+          <document-id>
+            <country>JP</country>
+            <doc-number>61-58266</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP61058266</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+      <citation>
+        <patcit num="30">
+          <document-id>
+            <country>JP</country>
+            <doc-number>62-248248</doc-number>
+          </document-id>
+          <document-id data-format="questel">
+            <doc-number>JP62248248</doc-number>
+          </document-id>
+        </patcit>
+      </citation>
+    </references-cited>
+    <related-documents>
+      <division>
+        <relation>
+          <parent-doc>
+            <document-id>
+              <country>US</country>
+              <doc-number>34202494</doc-number>
+              <kind>A</kind>
+              <date>19941116</date>
+            </document-id>
+          </parent-doc>
+        </relation>
+        <relation>
+          <parent-doc>
+            <document-id>
+              <country>US</country>
+              <doc-number>342024</doc-number>
+              <date>19941116</date>
+            </document-id>
+          </parent-doc>
+        </relation>
+        <relation>
+          <parent-doc>
+            <document-id>
+              <country>US</country>
+              <doc-number>5512501</doc-number>
+            </document-id>
+          </parent-doc>
+        </relation>
+      </division>
+    </related-documents>
+    <parties>
+      <applicants>
+        <applicant data-format="original" app-type="applicant" sequence="1">
+          <addressbook lang="en">
+            <orgname>Mitsubishi Denki Kabushiki Kaisha</orgname>
+            <address>
+              <address-1>Tokyo, JP</address-1>
+              <city>Tokyo</city>
+              <country>JP</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>JP</country>
+          </nationality>
+        </applicant>
+        <applicant data-format="questel" app-type="applicant" sequence="2">
+          <addressbook lang="en">
+            <orgname>MITSUBISHI ELECTRIC</orgname>
+          </addressbook>
+          <nationality>
+            <country>JP</country>
+          </nationality>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor data-format="original" sequence="1">
+          <addressbook lang="en">
+            <name>Hidaka, Hideto</name>
+            <address>
+              <address-1>Hyogo, JP</address-1>
+              <city>Hyogo</city>
+              <country>JP</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>JP</country>
+          </nationality>
+        </inventor>
+        <inventor data-format="original" sequence="2">
+          <addressbook lang="en">
+            <name>Tsuruda, Takahiro</name>
+            <address>
+              <address-1>Hyogo, JP</address-1>
+              <city>Hyogo</city>
+              <country>JP</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>JP</country>
+          </nationality>
+        </inventor>
+        <inventor data-format="original" sequence="3">
+          <addressbook lang="en">
+            <name>Suma, Katsuhiro</name>
+            <address>
+              <address-1>Hyogo, JP</address-1>
+              <city>Hyogo</city>
+              <country>JP</country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country>JP</country>
+          </nationality>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook lang="en">
+            <orgname>McDermott, Will &amp; Emery</orgname>
+          </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <examiners>
+      <primary-examiner>
+        <name>Chaudhuri, Olik</name>
+      </primary-examiner>
+    </examiners>
+    <lgst-data>
+      <lgst-status>EXPIRED</lgst-status>
+    </lgst-data>
+  </bibliographic-data>
+  <abstract format="original" lang="en" id="abstr_en">
+    <p id="P-EN-00001" num="00001">
+      <br/>
+      In etching a polysilicon layer above a gate electrode layer, a portion of the gate electrode layer is left thereunder.
+      <br/>
+      The etching process of that polysilicon layer and that gate electrode layer is carried out in two steps of etching the polysilicon layer and an interlayer insulating layer, and etching the gate electrode layer and the gate oxide film.
+      <br/>
+      Therefore, the amount that is removed from an SOI layer can be suppressed in the manufacturing process thereof.
+    </p>
+  </abstract>
+  <description format="original" lang="en" id="desc_en">
+    <p num="1">
+      <h1>CROSS REFERENCE TO RELATED APPLICATION</h1>
+    </p>
+    <p num="2">This application is a division of application Ser. No. 08/342,024 filed Nov. 16, 1994, now U.S. Pat. No. 5,512,501.</p>
+    <p num="3">
+      <h1>BACKGROUND OF THE INVENTION</h1>
+    </p>
+    <p num="4">1. Field of the Invention</p>
+    <p num="5">The present invention relates to a method of manufacturing a semiconductor device, and more particularly to a method of manufacturing a semiconductor device having an SOI (Silicon On Insulator) structure.</p>
+    <p num="6">2. Description of the Background Art</p>
+    <p num="7">A dynamic random access memory (referred to as DRAM hereinafter) that allows random input and output of stored information is well known as a semiconductor device. A DRAM includes a memory cell array which is the memory region of storing information and a peripheral circuit required for input/output with respect to an external source.</p>
+    <p num="8">An exemplary structure of a DRAM memory cell will be described hereinafter. FIG. 30 is a sectional view of a general DRAM memory cell. This memory cell includes a typical stacked type capacitor.</p>
+    <p num="9">Referring to FIG. 30, a memory cell includes one transfer gate transistor and one stacked type capacitor.</p>
+    <p num="10">The transfer gate transistor includes a pair of source/drain regions 30, 30 formed on a surface of a silicon substrate 1, and a gate electrode (word line) 6 formed on the surface of silicon substrate 1 with an insulating layer therebetween.</p>
+    <p num="11">The stacked type capacitor includes a lower electrode (storage node) 9 extending from over gate electrode 6 to a field isolation film 4, and having a portion thereof connected to one of source/drain regions 30, 30, a dielectric layer 901 formed on the surface of lower electrode 9, and an upper electrode (cell plate) 902 formed thereon.</p>
+    <p num="12">A bit line 10 is connected to the other source/drain region 30 of the transfer gate transistor via a bit line contact unit 100.</p>
+    <p num="13">In recent years, the technology of transistors using an SOI structure has evolved. Such a transistor of an SOI structure is characterized in that the operation of circuitry is speeded, according to reduction in the capacitance between the interconnection and the substrate, i.e. the wiring capacitance. When this transistor is applied to a CMOS, the latch up phenomenon can be prevented. There are also various advantages such as the short channel effect is reduced, the current driving capability and the subthreshold characteristics are improved.</p>
+    <p num="14">Therefore, application of an SOI structure into a memory cell of a DRAM is considered.</p>
+    <p num="15">However, in the stage of applying an SOI structure into a memory cell of a DRAM, the following problems were generated.</p>
+    <p num="16">FIGS. 31A-31F are sectional views of a memory cell of an SOI structure showing the first to sixth manufacturing steps thereof for describing the problems encountered in the manufacturing process. The main steps of the manufacturing method of the present memory cell are shown.</p>
+    <p num="17">Referring to FIG. 31A, a silicon substrate 1 is prepared. Oxygen ions are implanted from above silicon substrate 1 with silicon substrate 1 is heated to a predetermined temperature. Then, annealing is carried out at a high temperature.</p>
+    <p num="18">
+      As a result, silicon substrate 1 reacts with the oxygen ions, whereby an insulating layer 2 of silicon oxide (SiO
+      <sub>2</sub>
+      ) is formed. The defects generated by oxygen ion implantation are eliminated, whereby the crystalline property thereof is recovered. As a result, a silicon layer of single crystalline (referred to as SIO layer hereinafter) 3 is formed.
+    </p>
+    <p num="19">Thus, an insulating layer 2 is located at the depth of 5000-10000 Å from the top face of the original silicon substrate. On insulating layer 2, a first conductivity type SOI layer 3 having a thickness of approximately 1000 Å is formed.</p>
+    <p num="20">Then, a field oxide film 4 is formed on the main surface of silicon substrate 1.</p>
+    <p num="21">Referring to FIG. 31B, the surface of SOI layer 3 is processed by thermal oxidation, whereby a gate oxide film 5 is formed on the surface of SOI layer 3. Gate oxide film 5 has a thickness of approximately 100 Å. Here, the thickness of SOI layer 3 is reduced by the thickness of gate oxide film 5. Then, a gate electrode layer 60 of polysilicon is formed on gate oxide film 5.</p>
+    <p num="22">Referring to FIG. 31C, using a resist pattern (not shown) formed on gate electrode layer 60 located above the center portion between field oxide films 4, 4 as a mask, gate electrode layer 60 and gate oxide film 5 are etched away to be patterned. By this patterning, gate electrode 6 is formed.</p>
+    <p num="23">In this patterning step, SOI layer 3 beneath gate electrode layer 60 removed by etching is also removed due to that etching process.</p>
+    <p num="24">Referring to FIG. 31D, ions are implanted into one of the pair of regions in SOI layer 3 sandwiching the region beneath gate electrode 6 between field insulating films 4, 4, whereby a first impurity region (drain region or source region) 31 of a second conductivity type is formed.</p>
+    <p num="25">Then, an interlayer insulating layer 71 is formed so as to cover the surface of SOI layer 3, gate electrode 6, and field oxide films 4, 4. Interlayer insulating layer 71 on first impurity region 31 is removed by etching. As a result, a contact hole 71 is formed.</p>
+    <p num="26">In this formation of contact hole 710, SOI layer 3 is removed by the influence of the etching process. Then, a bit line layer 100 of polysilicon is formed on the surface of interlayer insulating layer 71 so as to come into contact with SOI layer 3 through contact hole 710.</p>
+    <p num="27">Referring to FIG. 31E, using a resist pattern (not shown) of a predetermined configuration as a mask, bit line layer 100 is etched away to be patterned. In this patterning process, interlayer insulating layer 71 on a region of S0I layer 3 located opposite to first impurity region 31 with the region beneath gate electrode 6 therebetween is removed by etching at the same time. This is because interlayer insulating layer 71 is etched easier than bit line layer 100 of polysilicon.</p>
+    <p num="28">As interlayer insulating layer 71 is removed, the portion of SOI layer 3 beneath the removed interlayer insulating layer 71 is also exposed and removed.</p>
+    <p num="29">Referring to FIG. 31F, ions are implanted into the exposed SOI layer 3, whereby an impurity region 32 of a second conductivity type is formed. Then, an interlayer insulating layer 72 is formed. Interlayer insulating layer 72 located on the region of SOI layer 3 opposite to first impurity region 31 with the region beneath gate electrode layer 6 therebetween is removed by etching to form a contact hole 720. In the formation of contact hole 720, SOI layer 3 is removed due to this etching process.</p>
+    <p num="30">Then, a lower electrode layer is formed on the surface of interlayer insulating layer 72 so as to come into contact with SOI layer 3 through contact hole 720. The lower electrode layer is patterned, whereby a storage node (lower electrode) 9 is formed.</p>
+    <p num="31">After this step of FIG. 31F, a dielectric layer and a cell plate (upper electrode) are sequentially formed on storage node 9.</p>
+    <p num="32">When an SOI structure is applied to a DRAM memory cell, there was the problem that the thickness of SOI layer 3 is reduced in manufacturing a memory cell. In the worst case, a through hole in SOI layer 3 was generated. The reason why the thickness of SOI layer 3 is reduced is summarized as follows.</p>
+    <p num="33">First, the thickness of SOI layer 3 is reduced due to the thermal oxidation process in forming gate oxide film 5. Then, SOI layer 3 is removed also in the patterning process of gate electrode layer 60. SOI layer 3 is also removed during formation of contact holes 710 and 720. Furthermore, SOI layer 3 is removed in patterning the conductive layer located right above the gate electrode such as bit line layer 100.</p>
+    <p num="34">When this impurity region is to be formed as a LDD (Lightly Doped Drain) structure, SOI layer 3 is also removed in the etching process of the sidewall.</p>
+    <p num="35">Thus, there was the problem that the thickness of the SOI layer is significantly removed during the manufacturing process in the case where an SOI structure is applied to a DRAM memory cell. This reduction causes various problems such as contact failure between the SOI layer and a conductive layer such as a storage node in contact thereto.</p>
+    <p num="36">The above-described status is encountered not only in a DRAM memory cell, but also in a general transistor. More specifically, it occurs in the case where the structure right above a source region differs from that right above a drain region in a pair of source/drain regions in a transistor. A typical example of a transistor of such a structure is a transistor of a DRAM memory cell.</p>
+    <p num="37">The type of a conductive layer right above the source/drain region of a transistor differs depending upon the structure of the memory cell. Therefore, the above-described problem also occurs in the case where the conductive layer right above the source/drain region of the transistor is a polypad, a storage node interconnection layer, or a bit line interconnection layer.</p>
+    <p num="38">The above-described problem is not limited to a DRAM memory cell, and is seen also in a SRAM (problems identical to those in a DRAM memory cell occurs). Furthermore, the above-described problem occurs in a general CMOS circuit in which polypads are respectively formed at the power supply side and the ground side, and not formed at the signal output side, or vice versa.</p>
+    <p num="39">
+      <h1>SUMMARY OF THE INVENTION</h1>
+    </p>
+    <p num="40">An object of the present invention is to suppress the amount that is removed from an SOI layer in a method of manufacturing a semiconductor device having an SOI structure.</p>
+    <p num="41">Another object of the present invention is to suppress the amount that is removed from an SOI layer in a process of manufacturing a memory cell having an SOI structure.</p>
+    <p num="42">A further object of the present invention is to suppress the amount that is removed from an SOI layer in a process of manufacturing a transistor having an SOI structure.</p>
+    <p num="43">A method of manufacturing a semiconductor device according to the present invention includes the following steps.</p>
+    <p num="44">A semiconductor layer of a first conductivity type is formed on a main surface of a semiconductor substrate with a first insulating layer therebetween. A gate electrode layer is formed on the surface of the semiconductor layer with a gate insulating layer therebetween. The gate electrode layer and the gate insulating layer are etched so that a first partial surface of the semiconductor layer is exposed. A first impurity region of a second conductivity type is formed within the semiconductor layer below the first partial surface. A second insulating layer is formed covering the gate electrode layer and having a first contact hole reaching the first partial surface. A first conductive layer is formed covering the surface of the second insulating layer and connected to the first partial surface via the first contact hole. The first conductive layer and the second insulating layer are etched to expose a partial surface of the gate electrode layer. The gate electrode layer and the gate insulating layer are etched to expose a second partial surface of the semiconductor layer. A third insulating layer is formed covering the gate electrode layer and the first conductive layer, and having a second contact hole reaching the second partial surface. A second conductive layer is formed covering the surface of the third insulating layer, and connected to the second partial surface via the second contact hole. A second impurity region of the second conductivity type is formed within the semiconductor layer beneath the second partial surface.</p>
+    <p num="45">In the first etching process of the gate electrode layer, the gate electrode layer is left on the portion of the semiconductor layer where a second impurity region is to be formed afterwards.</p>
+    <p num="46">The etching process applied above the second partial surface of the semiconductor layer after formation of the first conductive layer is carried out in two steps. In the first step, the first conductive layer and the second insulating layer are etched. In the second step, the gate electrode layer and the gate insulating layer are etched.</p>
+    <p num="47">Although the second partial surface of the semiconductor layer is susceptible to etching during the second etching step of the gate electrode layer, it is impervious to the etching of the first conductive layer in the first etching step.</p>
+    <p num="48">In the second etching step, a small amount which has a short distance from the surface of the gate electrode layer to the surface of the semiconductor layer is etched. Therefore, the etching amount can be adjusted easily. The etching progress can be stopped at the surface of the semiconductor layer.</p>
+    <p num="49">According to the method of manufacturing a semiconductor device, when the first conductive layer above the gate electrode layer is to be etched, the gate electrode layer is left therebeneath, and the etching process of the first conductive layer and the gate electrode layer is carried out in two steps.</p>
+    <p num="50">Because only a small amount is to be etched in the second etching step of the gate electrode layer, the etching progress can be stopped at the surface of the semiconductor layer. Therefore, the amount that is removed from an SOI layer can be suppressed in the manufacturing process.</p>
+    <p num="51">A method of manufacturing a semiconductor device according to another aspect of the present invention includes the following steps.</p>
+    <p num="52">A semiconductor layer of a first conductivity type is formed on a main surface of a semiconductor substrate with a first insulating layer therebetween. A gate electrode layer is formed on the surface of the semiconductor layer with a gate insulating layer therebetween. The gate electrode layer and the gate insulating layer are etched to expose a first partial surface of the semiconductor layer. A first impurity region of a second conductivity type is formed in the semiconductor layer beneath the first partial layer. A second insulating layer is formed to cover the gate electrode layer, and has a first contact hole reaching the first partial surface. A first conductive layer is formed covering the surface of the second insulating layer, and connected to the first partial surface via first contact hole. The first conductive layer, the second insulating layer, the gate electrode layer and the gate insulating layer are etched to expose the first partial surface of the semiconductor layer. A third insulating layer covering the gate electrode and the first conductive layer, and having a second contact hole reaching the second partial surface. A second conductive layer is formed covering the surface of the third insulating layer, and connected to the second partial surface via a second contact hole. A second impurity region of the second conductivity type is formed within the semiconductor layer beneath the second partial surface.</p>
+    <p num="53">As described above, in the first etching step of the gate electrode layer, the gate electrode layer is left on a portion of the semiconductor layer where a second impurity region is to be formed afterwards.</p>
+    <p num="54">In the etching process applied above the second partial surface of the semiconductor layer after formation of the first conductive layer, the first conductive layer, the second insulating layer, the gate electrode layer and gate insulating layer are etched at one step.</p>
+    <p num="55">Although the second partial surface of the semiconductor layer is subjected to the influence of etching in etching the gate electrode layer in the step of exposing the second partial surface of the semiconductor layer, it is impervious to the etching process when the first conductive layer is etched away. According to a method of manufacturing a semiconductor device of the present aspect, the amount that is removed from an SOI layer which is a semiconductor layer can be suppressed in the manufacturing process.</p>
+    <p num="56">A method of manufacturing a semiconductor device according to a further aspect of the present invention includes the following steps.</p>
+    <p num="57">A semiconductor layer of a first conductivity type is formed on a main surface of a semiconductor substrate with a first insulating layer therebetween. A gate electrode is formed on the surface of the semiconductor layer with a gate insulating layer therebetween. A resist pattern is formed that covers a first region at the surface of the gate electrode layer, and that exposes second and third regions sandwiching the first region. Using the resist pattern as a mask, impurities of a second conductivity type are implanted into the semiconductor layer, whereby first and second impurity regions of the second conductivity type are formed. The gate electrode layer and the gate insulating layer are etched, whereby the surface of the first impurity region is exposed. A second insulating layer is formed covering the gate electrode layer, and having a first contact hole reaching the first impurity region. A first conductive layer is formed covering the surface of the second insulating layer, and connected to the first impurity region via the first contact hole. The first conductive layer and the second insulating layer are etched to expose a partial surface of the gate electrode layer. The gate electrode layer and the gate insulating layer are etched to expose the second impurity region. A third insulating layer is formed that covers the gate electrode layer and the first conductive layer, and that has a second contact hole reaching the second impurity region. A second conductive layer is formed covering the surface of the third insulating layer, and connected to the second impurity region via the second contact hole.</p>
+    <p num="58">As described above, using a resist pattern exposing the second and third regions at the surface of the gate electrode layer as a mask, impurities are implanted into the semiconductor layer. As a result, first and second impurities regions are formed simultaneously in the semiconductor layer before the gate electrode layer is etched. It is therefore not necessary to form an impurity region after the etching process of the gate electrode layer.</p>
+    <p num="59">When the gate electrode layer is first etched, the gate electrode layer located above the second impurity region remains.</p>
+    <p num="60">The etching process applied on the region above the second impurity region after formation of the first conductive layer is carried out by two steps. In the first step, the first conductive layer and the second insulating layer are etched. In the second step, the gate electrode layer and the gate insulating layer are etched.</p>
+    <p num="61">Although the second impurity region of the semiconductor layer is susceptible to etching in the second etching step of the gate electrode layer, it is impervious to etching in the first etching step of the first conductive layer.</p>
+    <p num="62">In the second etching step, a short amount from the surface of the gate electrode layer to the surface of semiconductor layer is etched. It is therefore easy to adjust the etching amount. Therefore, the etching progress can be easily stopped at the surface of the semiconductor layer.</p>
+    <p num="63">According to the method of manufacturing a semiconductor device of the present aspect, in addition to the effect that the amount that is removed from an SOI layer which is the semiconductor layer can be suppressed on account of the etching progress easily stopped at the surface of the semiconductor layer, the effects as set forth in the following can be obtained.</p>
+    <p num="64">The first and second impurity regions are formed at the same time by implanting impurities into the semiconductor layer via the gate electrode and the gate insulating layer. It is therefore not necessary to form an impurity region after the etching process of the gate electrode layer. As a result, the manufacturing process can be simplified.</p>
+    <p num="65">A method of manufacturing a semiconductor device according to a further aspect of the present invention includes the following steps.</p>
+    <p num="66">A semiconductor layer of a first conductivity type is formed on a main surface of a semiconductor substrate with a first insulating layer therebetween. A gate electrode layer is formed on the surface of the semiconductor layer with a gate insulating layer therebetween. The gate electrode layer and the gate insulating layer are etched to expose a first partial surface of the semiconductor layer. A first impurity region of a second conductivity type is formed within the semiconductor layer beneath the first partial surface. A second insulating layer is formed covering the gate electrode layer, and having a first contact hole reaching the first partial surface. A first conductive layer is formed covering the surface of the second insulating layer, and connected to the first partial surface via the first contact hole. The first conductive layer and the second insulating layer are etched to expose a partial surface of the gate electrode layer. The gate electrode layer and the gate insulating layer are etched to expose a second partial surface of the semiconductor layer. A second impurity region of a second conductivity type is formed in the semiconductor layer beneath the second partial surface. A trench piercing the semiconductor layer and the first insulating layer and reaching the semiconductor substrate is formed. A second conductive layer is formed at the inside surface of the trench.</p>
+    <p num="67">As described above, in first etching the gate electrode layer, the gate electrode layer is left located above the portion of the semiconductor layer where the second impurity region is to be formed afterwards.</p>
+    <p num="68">The etching process applied on the region above the second partial surface of the semiconductor layer after formation of the first conductive layer is carried out in two steps. In the first step, the first conductive layer and the second insulating layer are etched. In the second step, the gate electrode layer and the gate insulating layer are etched.</p>
+    <p num="69">Therefore, the second partial surface of the semiconductor layer is susceptible to the etching process in the second etching step of the gate electrode layer. However, it is impervious to the etching process in the first etching step of the semiconductor layer.</p>
+    <p num="70">In the second etching step, only a small amount from the surface of the gate electrode layer to the surface of the semiconductor layer is etched. It is therefore easy to adjust the etching amount. As a result, the etching progress can be stopped at the surface of the semiconductor layer.</p>
+    <p num="71">Following the formation of the second impurity region, a trench arriving into the semiconductor substrate is formed. The second conductive layer is formed at the inside surface of the trench. Thus, a semiconductor device having a trench type capacitor is formed.</p>
+    <p num="72">In such a semiconductor device having a trench type capacitor, reduction in the thickness of the semiconductor layer caused by etching can be suppressed.</p>
+    <p num="73">According to a method of manufacturing a semiconductor device of the present aspect, a two-step etching process is carried out in manufacturing a semiconductor device having a trench type capacitor. Therefore, the amount that is removed from an SOI layer which is a semiconductor layer can be suppressed in the process of manufacturing a semiconductor device having a trench type capacitor.</p>
+    <p num="74">A method of manufacturing a semiconductor device according to still another aspect of the present invention includes the following steps.</p>
+    <p num="75">A semiconductor layer of a first conductivity type is formed on a main surface of a semiconductor substrate with a first insulating layer therebetween. A gate electrode layer is formed on the surface of the semiconductor layer with a gate insulating layer therebetween. The gate electrode layer and the gate insulating layer are etched to expose a first partial surface of the semiconductor layer. A first impurity region of a second conductivity type is formed within the semiconductor layer beneath the first partial surface. A second insulating layer is formed covering the gate electrode layer, and having a first contact hole reaching the first partial surface. A first conductive layer is formed covering the surface of the second insulating layer, and connected to the first partial surface via a first contact hole. The first conductive layer, the second insulating layer, the gate electrode layer and the gate insulating layer are etched to expose a second partial surface of the semiconductor layer. A second impurity region of a second conductivity type is formed in the semiconductor layer beneath the second partial surface. A trench is formed piercing the semiconductor layer and the first insulating layer and reaching to the semiconductor substrate. A second conductive layer is formed at the inside surface of the trench.</p>
+    <p num="76">As described above, when the gate electrode layer is first etched, the gate electrode layer is left on the semiconductor layer portion where the second impurity region is to be formed afterwards.</p>
+    <p num="77">In the etching process carried out on the region above the second partial layer of the semiconductor layer after formation of the first conductive layer, the first conductive layer, the second insulating layer, the gate electrode layer and the gate insulating layer are etched at one step.</p>
+    <p num="78">Therefore, in the process of exposing the second partial surface, the second partial surface of the semiconductor layer is susceptible to the etching process when the gate electrode layer is etched, but impervious to the etching process when the first conductive layer is etched.</p>
+    <p num="79">After the second impurity region is formed, the trench arriving into the semiconductor substrate is formed. Then, the second conductive layer is formed at the inside surface of the trench. Thus, a trench capacitor type semiconductor device is formed.</p>
+    <p num="80">In a semiconductor device of a trench capacitor type, reduction in the thickness of the semiconductor layer due to etching can be suppressed.</p>
+    <p num="81">According to the method of manufacturing a semiconductor device according to the present aspect, the above-described one step etching process is carried out in manufacturing a semiconductor device having a trench type capacitor. Therefore, the amount that is removed from an SOI layer which is a semiconductor layer can be suppressed in the method of manufacturing a semiconductor device having a trench type capacitor.</p>
+    <p num="82">A method of manufacturing a semiconductor device according to a still further aspect of the present invention includes the following steps.</p>
+    <p num="83">A semiconductor layer of a first conductivity type is formed on a main surface of a semiconductor substrate with a first insulating layer therebetween. A gate electrode layer is formed on the surface of the semiconductor layer with a gate insulating layer therebetween. A resist pattern is formed that covers a first region at the surface of the gate electrode layer, and that exposes second and third regions sandwiching the first region. Using this resist pattern as a mask, impurities of a second conductivity type are implanted into the semiconductor layer, whereby first and second impurity regions of the second conductivity type are formed. The gate electrode layer and the gate insulating layer are etched to expose a surface of the first impurity region. A second insulating layer is formed covering the gate electrode layer and having a first contact hole reaching the first impurity region. A first conductive layer is formed covering the surface of the second insulating layer, and connected to a first impurity region via a first contact hole. The first conductive layer and the second insulating layer are etched to expose a partial surface of the gate electrode layer. The gate electrode layer and the gate insulating layer are etched to expose the second impurity region. A trench is formed piercing the semiconductor layer and the first insulating layer arriving into the semiconductor substrate. A second conductive layer is formed at the inside surface of the trench.</p>
+    <p num="84">As described above, using a resist pattern exposing the second and third regions at the surface of the gate electrode layer as a mask, impurities are implanted into the semiconductor layer. As a result, first and second impurity regions are formed at the same time in the semiconductor layer before the gate electrode layer is etched. It is therefore not necessary to form an impurity region after the etching process of the gate electrode layer.</p>
+    <p num="85">When the gate electrode layer is first etched, the gate electrode layer above the second impurity region is left.</p>
+    <p num="86">The etching applied on the region above the second impurity region of the semiconductor layer after formation of the first conductive layer is carried out in two steps. In the first step, the first conductive layer and the second insulating layer are etched. In the second step, the gate electrode layer and the gate insulating layer are etched.</p>
+    <p num="87">Therefore, the second impurity region of the semiconductor layer is susceptible to the etching process during the second etching step of the gate electrode layer. However, it is impervious to the etching process in the first etching process of the first conductive layer.</p>
+    <p num="88">In the second etching step, a small amount from the surface of the gate electrode layer to the surface of the semiconductor layer is etched. Therefore, the etching amount can be adjusted easily. Thus, the etching progress can be easily stopped at the surface of the semiconductor layer. Then, a trench arriving to the semiconductor substrate is formed. A second conductive layer is formed at the inside surface of the trench. Therefore, a semiconductor device having a trench type capacitor is formed.</p>
+    <p num="89">In a semiconductor device having a trench type capacitor, the reduction of the thickness of the semiconductor layer due to etching can be suppressed.</p>
+    <p num="90">According to the method of manufacturing a semiconductor device of the present invention, in addition to the effect that the amount that is removed from a semiconductor layer can be suppressed on account of the etching progress easily stopped at the surface of the semiconductor layer, effects set forth in the following can be obtained.</p>
+    <p num="91">The first and second impurities regions are formed simultaneously by implanting impurities into the semiconductor layer via the gate electrode layer and the gate insulating layer. It is therefore not necessary to form an impurity region after the etching process of the gate electrode layer. Thus the manufacturing process of a semiconductor device having a trench type capacitor can be simplified.</p>
+    <p num="92">A method of manufacturing a semiconductor device according to yet a further aspect of the present invention includes the following steps.</p>
+    <p num="93">A semiconductor layer of a first conductivity type is formed on a main surface of a semiconductor substrate with a first insulating layer therebetween. A gate electrode layer is formed on the surface of the semiconductor layer with a gate insulating layer therebetween. The gate electrode layer and the gate insulating layer are etched to expose first and second partial surfaces of the semiconductor layer. A first impurity region of the first conductivity type and a second impurity region of a second conductivity type are formed in the semiconductor layer beneath the first and second partial surfaces. A second insulating layer is formed covering the gate electrode layer, and having first and second contact holes reaching the first and second partial surfaces, respectively. A polysilicon layer is formed that covers the surface of the second insulating layer, and that reaches the first and second partial surfaces. The polysilicon layer is etched, and a first polypad connected to the first impurity region and a second polypad connected to the second impurity region are formed.</p>
+    <p num="94">As described above, a polysilicon layer is formed reaching the first partial surface of the semiconductor layer in which the first impurity region is formed and the second partial surface of the semiconductor layer in which the second impurity region is formed. This polysilicon layer is etched to be divided into the first polypad and the second polypad.</p>
+    <p num="95">Therefore, the first and second impurity regions are not removed in the etching step of the polysilicon layer. Therefore, the semiconductor layer is impervious to etching when the polysilicon layer which is a conductive layer is etched. As a result, the amount that is removed from an SOI layer which is a semiconductor layer can be suppressed according to a method of manufacturing a semiconductor device of the present aspect.</p>
+    <p num="96">The foregoing and other objects, features, aspects and advantages of the present invention will become more apparent from the following detailed description of the present invention when taken in conjunction with the accompanying drawings.</p>
+    <p num="97">
+      <h1>BRIEF DESCRIPTION OF THE DRAWINGS</h1>
+    </p>
+    <p num="98">FIG. 1 is a block diagram showing a structure of a DRAM to which the present invention is applied.</p>
+    <p num="99">FIGS. 2A-2G are sectional views of a memory cell showing the manufacturing steps in order according to a first embodiment.</p>
+    <p num="100">FIG. 3 is a plan view schematically showing a memory cell manufactured by the first embodiment.</p>
+    <p num="101">FIG. 4 is a sectional view taken along line A--A of FIG. 3.</p>
+    <p num="102">FIGS. 5A-5F are sectional views of a memory cell showing the manufacturing steps in order according to a second embodiment.</p>
+    <p num="103">FIGS. 6A-6F and FIGS. 7A and 7B are sectional views of a memory cell showing manufacturing steps in order according to a third embodiment.</p>
+    <p num="104">FIGS. 8A-8G are sectional views of a memory cell showing the manufacturing steps in order according to a fourth embodiment.</p>
+    <p num="105">FIG. 9 is a plan view of a memory cell manufactured according to the manufacturing method of the fourth embodiment.</p>
+    <p num="106">FIG. 10 is a sectional view taken along line B--B of FIG. 9.</p>
+    <p num="107">FIGS. 11A-11F are sectional views of a memory cell showing manufacturing steps in order according to a fifth embodiment.</p>
+    <p num="108">FIGS. 12A-12G and FIGS. 13A-13C are sectional views of a memory cell showing manufacturing steps in order according to a sixth embodiment.</p>
+    <p num="109">FIG. 14 is a sectional view of a memory cell manufactured by the manufacturing method according to the sixth embodiment.</p>
+    <p num="110">FIGS. 15A-15F and FIGS. 16A-16C are sectional views of a memory cell showing the manufacturing steps in order according to a seventh embodiment.</p>
+    <p num="111">FIGS. 17A-17F and FIGS. 18A-18D are sectional views of a memory cell showing the manufacturing steps in order according to an eighth embodiment.</p>
+    <p num="112">FIG. 19 is a circuit diagram of a CMOS inverter.</p>
+    <p num="113">FIG. 20 is a plan view schematically showing a CMOS inverter.</p>
+    <p num="114">FIGS. 21A-21G are sectional views of a CMOS inverter showing manufacturing steps thereof in order according to a ninth embodiment.</p>
+    <p num="115">FIGS. 22A-22F are sectional views of a CMOS inverter showing manufacturing steps thereof in order according to a tenth embodiment.</p>
+    <p num="116">FIGS. 23A-23H are sectional views of a CMOS inverter showing the manufacturing steps thereof in order according to an eleventh embodiment.</p>
+    <p num="117">FIGS. 24A-24G are sectional views of a CMOS inverter showing the manufacturing steps thereof in order according to a twelfth embodiment.</p>
+    <p num="118">FIGS. 25A-25F are sectional views of a CMOS inverter showing the manufacturing steps thereof in order according to a thirteenth embodiment.</p>
+    <p num="119">FIGS. 26A-26H are sectional views of a CMOS inverter showing the manufacturing steps thereof in order according to a fourteenth embodiment.</p>
+    <p num="120">FIGS. 27A-27E are sectional views of a MOS transistor utilizing an SOI structure in a peripheral circuit showing manufacturing steps thereof in order according to a fifteenth embodiment.</p>
+    <p num="121">FIGS. 28A and 28B are sectional views of a salicide structured MOS transistor in a peripheral circuit according to a sixteenth embodiment showing manufacturing steps thereof in order.</p>
+    <p num="122">FIG. 29 is a circuit diagram of a SRAM memory cell employing a polypad.</p>
+    <p num="123">FIG. 30 is a sectional view of a general DRAM memory cell.</p>
+    <p num="124">FIGS. 31A-31F are sectional views of a memory cell of a SOI structure showing manufacturing steps for describing problems in manufacturing thereof.</p>
+    <p num="125">
+      <h1>DESCRIPTION OF THE PREFERRED EMBODIMENTS</h1>
+    </p>
+    <p num="126">Embodiments of the present invention will be described hereinafter with reference to the drawings.</p>
+    <p num="127">First Embodiment</p>
+    <p num="128">FIG. 1 is a block diagram showing a structure of a DRAM to which the present invention is applied.</p>
+    <p num="129">Referring to FIG. 1, a DRAM 200 includes a memory cell array 201, a row and column address buffer 202, a row decoder 203, a column decoder 204, a sense refresh amplifier 205, a data-in buffer 206, a data-out buffer 207, and a clock generator 208.</p>
+    <p num="130">Memory cell array 201 serves to store data signals of stored information. Row and column address buffer 202 receives an externally applied address signal for selecting a memory cell forming a unitary storage circuit. Row decoder 203 and column decoder 204 decode an address signal to specify a memory cell.</p>
+    <p num="131">Sense refresh amplifier 205 amplifies and reads out a signal stored in a specified memory cell. Data-in buffer 206 and data-out buffer 207 input/output data. Clock generator 208 generates a clock signal.</p>
+    <p num="132">In a semiconductor chip of the above-described DRAM 200, memory cells for storing unitary storage information are arranged in a matrix in memory cell array 201.</p>
+    <p num="133">A method of manufacturing a memory cell when a DRAM memory cell is to be formed with an SOI structure will be described hereinafter with reference to FIGS. 2A-2G showing the main steps. Referring to FIGS. 2A and 2B, processes similar to those shown in FIGS. 31A and 31B are carried out. More specifically, an insulating layer 2, an SOI layer 3 of a first conductivity type, and a field oxide film 4 are formed on a semiconductor substrate 1. Then, a gate oxide film 5 and a gate electrode layer 60 are formed.</p>
+    <p num="134">Referring to FIG. 2C, gate electrode layer 60 and gate oxide film 5 located above one of the pair of impurity regions of SOI layer 3 and the field oxide film 4 adjacent to that one impurity region are removed by etching. Gate electrode layer 60 is partially patterned. As a result, a partial surface of SOI layer 3 is exposed.</p>
+    <p num="135">Referring to FIG. 2D, ion implantation is carried out on the exposed portion of SOI layer 3, whereby an impurity region 31 of a second conductivity type is formed. Then, an interlayer insulating layer 71 is formed to cover the surface of SOI layer 3, gate electrode layer 60, and field oxide film 4.</p>
+    <p num="136">Interlayer insulating layer 71 on impurity region 31 is removed by etching to form a contact hole 710. A polysilicon layer 80 is formed on the surface of interlayer insulating layer 71 so as to come into contact with impurity region 31 of SOI layer 3 via contact hole 710.</p>
+    <p num="137">Referring to FIG. 2E, using a resist pattern of a predetermined configuration as a mask, polysilicon layer 80 is removed by etching except for the portion above and in the proximity of impurity region 31. As a result of the patterning, a polypad 8 is formed.</p>
+    <p num="138">Referring to FIG. 2F, gate electrode layer 60 on the other impurity region of SOI layer 3 and on the gate oxide film 4 adjacent to the other impurity region is removed by etching, whereby gate electrode layer 60 is patterned.</p>
+    <p num="139">As a result, gate electrode 6 is formed and a partial surface of SOI layer 3 is exposed.</p>
+    <p num="140">Referring to FIG. 2G, an interlayer insulating layer 72 is formed so as to cover SOI layer 3, field oxide film 4, gate 6, and polypad 8. Then, interlayer insulating layer 72 located above SOI layer 3 in which the other impurity region is to be formed is removed by etching to form a contact hole 720.</p>
+    <p num="141">A lower electrode layer of polysilicon is formed on the surface of interlayer insulating layer 72 so as to come into contact with SOI layer 3 via contact hole 720. It is patterned, resulting in a storage node 9. Then, a predetermined thermal treatment is applied, whereby impurities are diffused from storage node 9 into a region of SOI layer 3 thereunder. As a result, an impurity region 32 of a second conductivity type is formed in SOI layer 3.</p>
+    <p num="142">Although not shown in the above description and in FIGS. 2A-2G, a bit line is formed on polypad 8 before storage node 9 is formed.</p>
+    <p num="143">According to a manufacturing method of the first embodiment, when polysilicon layer 80 above gate electrode 6 is to be patterned, gate electrode layer 60 exists beneath the portion to be patterned. At the first step, polysilicon layer 80 and interlayer insulating layer 71 are removed by etching. At the second step, gate electrode layer 60 and gate oxide film 5 are removed by etching. Therefore, the portion of SOI layer 3 where impurity region 32 is formed is impervious to the etching process of polysilicon layer 80.</p>
+    <p num="144">In the second etching step of gate electrode layer 60 and gate oxide film 5, a small amount from the surface of gate electrode layer 60 to the surface of SOI layer 3 is removed by etching. Therefore, the etching amount can be easily adjusted. The etching progress can easily be stopped at the surface of SO0 layer 3.</p>
+    <p num="145">According to the manufacturing method of a memory cell of the first embodiment, the amount that is removed from SOI layer 3 caused by the etching process of the layer above SOI layer 3 is suppressed.</p>
+    <p num="146">The present invention is not limited to the manufacturing method of the first embodiment where polysilicon layer 80 which is a conductive layer closest to gate electrode 6 is used for forming polypad 8, and is similarly applicable in the case where polysilicon layer 80 is a layer for forming a bit line.</p>
+    <p num="147">The method of forming impurity region 31 in the manufacturing process of the memory cell may be carried out by diffusing impurities from polypad 8. Also, impurity region 32 may be formed by ion implantation in the present manufacturing process of the memory cell.</p>
+    <p num="148">The specific structure of a memory cell manufactured according to the manufacturing method of the first embodiment will be described hereinafter.</p>
+    <p num="149">FIG. 3 is a plan view schematically showing a memory cell manufactured according to the first embodiment. FIG. 4 is a sectional view thereof taken along line A--A of FIG. 3.</p>
+    <p num="150">Referring to FIG. 3, gate electrodes 6, 6 form word lines. In a memory cell, a word line and a bit line 10 are disposed so as to cross each other at right angles. More specifically, a word line extends in a row direction, and bit line 10 extends in the column direction. Storage nodes 9, 9 are positioned sandwiching bit line 10. The word lines are positioned sandwiching polypad 8. Element formation region FL is provided in a direction inclined with respect to the word line.</p>
+    <p num="151">Referring to FIG. 4, a polypad 8, a bit line 10, and a storage node 9 are formed sequentially on gate electrode 6 (word line). Bit line 10 is electrically connected to SOI layer 3 via polypad 8. More specifically, this memory cell is the so called bit line buried structure memory cell.</p>
+    <p num="152">Second Embodiment</p>
+    <p num="153">FIGS. 5A-5F are sectional views of a memory cell according to a manufacturing method of a second embodiment.</p>
+    <p num="154">Referring to FIGS. 5A-5D, processes similar to those shown in FIGS. 2A-2D are carried out.</p>
+    <p num="155">Referring to FIG. 5E, polysilicon layer 80, interlayer insulating layer 71, gate electrode layer 60, and gate oxide film 5 located above the region of SOI layers 3 where the other impurity region (impurity region 32) is to be formed are removed at the same time using a resist pattern of a predetermined configuration.</p>
+    <p num="156">As a result, polysilicon layer 80 and gate electrode layer 60 are patterned at the same time, resulting in the formation of a polypad 8 and a gate electrode 6 simultaneously.</p>
+    <p num="157">Referring to FIG. 5F, storage node 9 and impurity region 32 are formed in a manner similar to the steps shown in FIG. 2G.</p>
+    <p num="158">In the manufacturing method of a memory cell according to the second embodiment, gate electrode layer 60 is also etched in the patterning process of polysilicon layer 80 located above gate electrode layer 60. More specifically, polysilicon layer 80, interlayer insulating layer 71, gate electrode layer 60 and gate oxide film 5 are removed by etching at one time.</p>
+    <p num="159">Therefore, the portion of SOI layer 3 where impurity region 32 is formed is impervious to the etching process of polysilicon layer 80 when the conductive layer thereof is etched. It is only susceptible to the etching process of gate electrode layer 60.</p>
+    <p num="160">According to the method of manufacturing a memory cell of the second embodiment, the amount that is removed from SOI layer 3 caused by the etching process of the conductive layer above SOI layer 3 is suppressed.</p>
+    <p num="161">The present invention is not limited to the manufacturing method of the second embodiment where polysilicon layer 80 which is a conductive layer closest to gate electrode 6 is used for forming polypad 8, and is also applicable in the case where polysilicon layer 80 is used for forming a bit line.</p>
+    <p num="162">Impurity region 31 may be formed by diffusing impurities from polypad 8 in the present manufacturing method of the memory cell. Also, impurity region 32 may be formed by ion implantation.</p>
+    <p num="163">Third Embodiment</p>
+    <p num="164">FIGS. 6A-6F and FIGS. 7A and 7B are sectional views of a memory cell formed according to a manufacturing method of a third embodiment. The steps of FIGS. 7A and 7B are subsequent to the steps of FIGS. 6A-6F, all showing the main steps of the manufacturing method.</p>
+    <p num="165">Referring to FIGS. 6A and 6B, the steps similar to those shown in FIGS. 2A and 2B are carried out.</p>
+    <p num="166">Referring to FIG. 6C, a resist pattern 61 is formed on the center portion of gate electrode layer 60 above SOI layer 3. Using resist pattern 61 as a mask, ion implantation is carried out, whereby a pair of impurity regions 31 and 32 of the second conductivity type are simultaneously formed in SOI layer 3.</p>
+    <p num="167">Ion implantation is carried out by implanting ions at an energy on the order of MeV. Therefore, an impurity region can be formed in SOI layer 3 which is distant from the surface of gate electrode layer 60.</p>
+    <p num="168">Referring to FIG. 6D, gate electrode layer 60 and gate oxide film 5 located above impurity region 31 and the field oxide film 4 adjacent that impurity region are removed by etching. As a result, gate electrode layer 60 is partially patterned.</p>
+    <p num="169">Referring to FIG. 6E, an interlayer insulating layer 71 is formed covering the surface of impurity region 31, gate electrode layer 60 and field oxide film 4.</p>
+    <p num="170">Then, interlayer insulating layer 71 on impurity region 31 is removed by etching to form a contact hole 710 A polysilicon layer 80 is formed on the surface of interlayer insulating layer 71 so as to come into contact with impurity region 31 via contact hole 710.</p>
+    <p num="171">Referring to FIG. 6F, a process similar to that shown in FIG. 2E is carried out to form a polypad 8.</p>
+    <p num="172">Referring to FIG. 7A, gate electrode layer 60 on impurity region 32 and gate oxide film 4 adjacent thereto are removed by etching. As a result, gate electrode 60 is patterned to form gate electrode 6, and the surface of impurity region 32 is exposed.</p>
+    <p num="173">Referring to FIG. 7B, an interlayer insulating layer 72 is formed so as to cover field oxide film 4, impurity region 32, gate electrode 6 and polypad 8. Then, interlayer insulating layer 72 on impurity region 32 is removed by etching to form a contact hole 720.</p>
+    <p num="174">A lower electrode layer is formed on the surface of interlayer insulating layer 72 so as to come into contact with impurity region 32 via contact hole 720. The lower electrode layer is patterned to form a storage node 9.</p>
+    <p num="175">Although not shown in the above description, a bit line is formed on polypad 8 before storage node 9 is formed.</p>
+    <p num="176">According to the present method of manufacturing a memory cell of the third embodiment, impurity regions 31 and 32 of SOI layer 3 are simultaneously formed by ion implantation at an energy on the order of MeV. It is not necessary to form the impurity regions in two steps as in the manufacturing method of a memory cell of the first embodiment. Therefore, the manufacturing process can be simplified.</p>
+    <p num="177">Fourth Embodiment</p>
+    <p num="178">FIGS. 8A-8G are sectional views of a memory cell according to a manufacturing method of a fourth embodiment.</p>
+    <p num="179">Referring to FIGS. 8A-8C, steps similar to those shown in FIG. 2A-2C are carried out.</p>
+    <p num="180">Referring to FIG. 8D, an interlayer insulating layer 71 is formed covering the surface of SOI layer 3, gate electrode layer 60, and field oxide film 4. Interlayer insulating layer 71 above the portion of SOI layer 3 exposed in the step shown in FIG. 8C is removed by etching to form a contact hole 710.</p>
+    <p num="181">A lower electrode layer 90 of polysilicon is formed so as to come into contact with SOI layer 3 via contact hole 710 and so as to cover the surface of interlayer insulating layer 71. Then, a predetermined thermal treatment is carried out, whereby impurities are diffused from lower electrode layer 90 into SOI layer 3. As a result, an impurity region 32 is formed in SOI layer 3.</p>
+    <p num="182">Referring to FIG. 8E, using a resist pattern of a predetermined configuration (not shown) as a mask, lower electrode layer 90 and interlayer insulating film 71 are removed by etching except for the portion above and in the vicinity of impurity region 32. As a result, lower electrode layer 90 is patterned to form storage node 9.</p>
+    <p num="183">Referring to FIG. 8F, gate electrode layer 60 and gate oxide film 5 above the portion of SOI layer 3 where the other impurity region (impurity region 31) is formed and above field oxide film 4 adjacent to the other impurity region are removed by etching to pattern gate electrode layer 60.</p>
+    <p num="184">As a result, a gate electrode 6 is formed, and a surface of SOI layer 3 is exposed.</p>
+    <p num="185">Referring to FIG. 8G, an impurity region 31 is formed by ion implantation into the exposed SOI layer 3. Then, an interlayer insulating layer 72 is formed to cover field oxide film 4, impurity region 31, gate electrode 6 and storage node 9. Interlayer insulating layer 72 on impurity region 31 of SOI layer 3 is removed by etching to form a contact hole 720.</p>
+    <p num="186">A polysilicon layer 80 is formed in contact with SOI layer 3 via contact hole 720, and covering the surface of interlayer insulation layer 72. Polysilicon layer 80 is patterned to result in a polypad 8. Although not shown in FIG. 8G, a bit line is formed on polypad 8.</p>
+    <p num="187">According to the present method of manufacturing a memory cell of the fourth embodiment, when lower electrode layer 90 which is a conductive layer closest to gate electrode 6 is patterned, a gate electrode layer 60 exists below the portion to be patterned.</p>
+    <p num="188">Then at a first step, lower electrode layer 90 and interlayer insulating layer 71 are removed by etching. At a second step, gate electrode layer 60 and gate oxide film 5 are removed by etching. Therefore, the portion of SOI layer 3 where impurity region 32 is formed is impervious to the etching process of lower electrode layer 90.</p>
+    <p num="189">In the second etching step of gate electrode layer 60 and gate oxide film 5, a small amount from the surface of gate oxide film 60 to the surface of SOI layer 3 is removed by etching. Therefore, the amount of etching can easily be adjusted. Therefore, the etching progress can easily be stopped at the surface of SOI layer 3.</p>
+    <p num="190">According to the present method of manufacturing the memory cell of the fourth embodiment, the amount that is removed from SOI layer 3 caused by etching of a conductive layer above SOI layer 3 can be suppressed.</p>
+    <p num="191">The present invention is not limited to the manufacturing method of a memory cell according to the fourth embodiment where polypad 8 is formed on impurity region 31 of SOI layer 3, and a bit line may directly be formed on impurity region 31.</p>
+    <p num="192">Impurity region 31 may be formed by diffusing impurities from polysilicon layer 80 in the present manufacturing method of a memory cell. Also, impurity region 32 may be formed by ion implantation in the present manufacturing method of a memory cell.</p>
+    <p num="193">A specific structure of a memory cell manufactured according to the present manufacturing method of the fourth embodiment will be described hereinafter.</p>
+    <p num="194">Referring to FIG. 9, gate electrodes 6, 6 form word lines. In a memory cell, a word line and a bit line (not shown) are disposed so as to cross each other at right angles. More specifically, a word line extends in a row direction, and a bit line extends in a column direction. Storage node 9, 9 are positioned sandwiching a word line. Two word lines are positioned sandwiching a polypad 8. An element formation region FL is provided parallel to the bit line.</p>
+    <p num="195">Referring to FIG. 10, above gate electrode 6 (word line), storage node 9, dielectric layer 91, cell plate 92, polypad 8, and bit line 10 are provided in an ascending order. Bit line 10 is connected to SOI layer 3 via polypad 8. In other words, this memory cell has the so-called stacked type capacitor. As described in the third embodiment, impurity regions of the SOI layer may be formed simultaneously by ion implantation at an energy on the order of MeV in manufacturing a memory cell of the structure of the fourth embodiment.</p>
+    <p num="196">Fifth Embodiment</p>
+    <p num="197">FIGS. 11A-11F are sectional views of a memory cell manufactured according to a method of a fifth embodiment.</p>
+    <p num="198">Referring to FIGS. 11A-11D, steps similar to those shown in FIGS. 8A-8D are carried out.</p>
+    <p num="199">Referring to FIG. 1E, lower electrode layer 90, interlayer insulating layer 71, gate electrode layer 60 and gate oxide film 5 located above the portion of SOI layer 3 where the other impurity region (impurity region 31) is formed are removed by etching at one time using a resist pattern of a predetermined configuration. As a result, lower electrode layer 90 and gate electrode layer 60 are patterned. Thus, storage node 9 and gate electrode 6 are formed.</p>
+    <p num="200">Referring to FIG. 11F, an impurity region 31, an interlayer insulating layer 72, and a polypad 8 are formed according to a step similar to the step shown in FIG. 8G.</p>
+    <p num="201">According to the present method of manufacturing a memory cell of the fifth embodiment, when lower electrode layer 90 which is the conductive layer closest to gate electrode layer 60 is patterned, gate electrode layer 60 is also etched away. More specifically, lower electrode layer 90, interlayer insulating layer 71, gate electrode layer 60 and gate oxide film 5 are removed by etching at same time.</p>
+    <p num="202">Therefore, the portion of SOI layer 3 where impurity region 31 is formed is impervious to the etching process of lower electrode layer 90 in the etching step of the conductive layer. It is only susceptible to the etching process of gate electrode layer 60.</p>
+    <p num="203">According to the present manufacturing method of a memory cell of the fifth embodiment, the amount that is removed from SOI layer 3 caused by etching of a conductive layer above SOI layer 3 is suppressed.</p>
+    <p num="204">Sixth Embodiment</p>
+    <p num="205">FIGS. 12A-12G and FIGS. 13A-13C subsequent thereto are sectional views of a memory cell manufactured according to the method of a sixth embodiment.</p>
+    <p num="206">Referring to FIGS. 12A-12F, steps similar to those of FIGS. 2A-2F are carried out.</p>
+    <p num="207">Referring to FIG. 12G, an impurity region 32 is formed in SOI layer 3 by ion implantation.</p>
+    <p num="208">Referring to FIG. 13A, a trench 900 is formed piercing impurity region 32 of SOI layer 3 and insulating layer 2 and arriving in silicon substrate 1.</p>
+    <p num="209">Referring to FIG. 13B, a storage node 901 is formed at the inside surface of trench 900.</p>
+    <p num="210">Referring to FIG. 13C, a dielectric 902 is formed on the inside surface of storage node 901. The spacing inside dielectric 902 is filled with a cell plate 903.</p>
+    <p num="211">Although not shown in the above description, a bit line is formed on polypad 8 in the present memory cell.</p>
+    <p num="212">FIG. 14 is a sectional view of a memory cell manufactured according to the method of the sixth embodiment.</p>
+    <p num="213">Referring to FIG. 14, gate electrode 6 functions as a word line in the present memory cell. Storage node 900, dielectric film 901 and cell plate 902 form a trench type capacitor. In other words, this memory cell has a trench type capacitor.</p>
+    <p num="214">According to the present manufacturing method of a memory cell of the sixth embodiment, the manufacturing method of a memory cell of the first embodiment where polysilicon layer 80, interlayer insulating layer 71, gate electrode layer 60 and gate oxide film 5 are etched in two stages can be applied to a method of manufacturing a memory cell having a trench type capacitor.</p>
+    <p num="215">Therefore, the amount that is removed from an SOI layer can be suppressed in manufacturing a memory cell using an SOI structure having a trench type capacitor in an DRAM.</p>
+    <p num="216">Seventh Embodiment</p>
+    <p num="217">FIGS. 15A-15F and FIGS. 16A-16C subsequent thereto are sectional views of a memory cell according to a manufacturing step of a seventh embodiment.</p>
+    <p num="218">Referring to FIGS. 15A-15E, steps similar to those shown in FIGS. 5A-5E are carried out.</p>
+    <p num="219">Referring to FIG. 15F, an impurity region 32 is formed in an SOI layer 3 by ion implantation.</p>
+    <p num="220">Referring to FIG. 16A, a trench 900 is formed through impurity region 32 of SOI layer 3 and insulating layer 2 arriving into silicon substrate 1.</p>
+    <p num="221">Referring to FIG. 16B, a storage node 901 is formed at the inside surface of trench 900.</p>
+    <p num="222">Referring to FIG. 16C, a dielectric film 902 is formed at the inside surface of storage node 901. Then, a cell plate 903 is formed so as to fill the spacing inside dielectric film 902.</p>
+    <p num="223">According to the present manufacturing method of a memory cell of the seventh embodiment, a memory cell is manufactured using an SOI structure having a trench type capacitor similar to that of the sixth embodiment is formed.</p>
+    <p num="224">According to the present manufacturing method of a memory cell of the seventh embodiment, the manufacturing method of a memory cell according to the second embodiment where polysilicon layer 80, interlayer insulating layer 71, gate electrode layer 60 and gate oxide film 5 are etched by one step can be applied to the method of manufacturing a memory cell having a trench type capacitor.</p>
+    <p num="225">Therefore, the amount that is removed from an SOI layer can be suppressed in manufacturing a memory cell using an SOI structure having a trench type capacitor of a DRAM.</p>
+    <p num="226">Eighth Embodiment</p>
+    <p num="227">FIGS. 17A-17F and FIGS. 18A-18D subsequent thereto are sectional views of a memory cell showing manufacturing steps thereof according to an eighth embodiment.</p>
+    <p num="228">Referring to FIGS. 17A-17F, steps similar to those shown in FIGS. 6A-6F are carried out.</p>
+    <p num="229">Referring to FIG. 18A, a step similar to that shown in FIG. 7A is carried out.</p>
+    <p num="230">Referring to FIG. 18B, a trench 900 is formed through impurity region 32 of SOI layer 3 and insulating layer 2 arriving to silicon substrate 1.</p>
+    <p num="231">Referring to FIG. 18C, a storage node 901 is formed at the inside surface of trench 900.</p>
+    <p num="232">Referring to FIG. 18D, a dielectric film 902 is formed at the inside surface of storage node 901. Then, a cell plate 903 is formed so as to fill the spacing at the inner side of dielectric film 902.</p>
+    <p num="233">According to the present manufacturing method of a memory cell of the eighth embodiment, a memory cell having a trench type capacitor is formed.</p>
+    <p num="234">According to the present manufacturing method of a memory cell of the eighth embodiment, the manufacturing method of a memory cell according to the third embodiment where impurity regions 31 and 32 are formed simultaneously by ion implantation at an energy on the order of MeV, followed by a two-etching step of polysilicon layer 80, interlayer insulating layer 71, gate electrode layer 60, and gate oxide film 5 is applicable to the method of manufacturing a memory cell having a trench type capacitor.</p>
+    <p num="235">Therefore, the amount that is removed from an SOI layer can be suppressed in manufacturing a memory cell utilizing an SOI layer having a trench type capacitor in a DRAM.</p>
+    <p num="236">Ninth Embodiment</p>
+    <p num="237">In the above first to eighth embodiment, a method of manufacturing a memory cell utilizing an SOI structure in a DRAM was described. In the ninth embodiment, a method of manufacturing a peripheral circuit utilizing an SOI structure in a DRAM will be described hereinafter.</p>
+    <p num="238">An exemplary circuit used in peripheral circuitry is a CMOS inverter. FIG. 19 is a circuit diagram of a CMOS inverter.</p>
+    <p num="239">Referring to FIG. 19, a CMOS inverter includes a PMOS transistor T1 and an NMOS transistor T2. Transistors T1 and T2 are connected in series between a power supply node N1 receiving power supply potential and a ground node N2 receiving ground potential. The respective gates of transistors T1 and T2 receive input signals. The node between transistors T1 and T2 implement an output node, from which an output signal is provided.</p>
+    <p num="240">FIG. 20 is a plan view schematically showing a CMOS inverter.</p>
+    <p num="241">Referring to FIG. 20, a gate 6 extends in predetermined direction. A PMOS transistor T1 and an NMOS transistor T2 are provided at either sides in the longitudinal direction of gate 6. Gate 6 is connected to an input interconnection layer 41.</p>
+    <p num="242">In PMOS transistor T1, one conductive layer 42 forms a power supply node, and the other conductive layer 43 forms an output node. In NMOS transistor T2, one conductive layer 44 forms a ground node, and the other conductive layer 43 forms an output node.</p>
+    <p num="243">A method of manufacturing the CMOS inverter shown in FIGS. 19 and 20 will be described hereinafter.</p>
+    <p num="244">FIGS. 21A-21G are sectional views of a CMOS inverter according to the ninth embodiment showing manufacturing steps thereof.</p>
+    <p num="245">In FIGS. 21A-21G, the left side figures show PMOS transistor T1 taken along line C--C of FIG. 20 and the right side figures show NMOS transistor T2 taken along line D--D of FIG. 20.</p>
+    <p num="246">Referring to FIGS. 21A-21C, steps similar to those shown in FIGS. 2A-2C are carried out.</p>
+    <p num="247">Referring to FIG. 21D, ion implantation is carried out, whereby an impurity region 31p is formed in SOI layer 3 for PMOS transistor T1, and an impurity region 31n is formed in SOI layer 3 for NMOS transistor T2. Impurity region 31p is formed by implanting boron ions, and impurity region 31A is formed by implanting arsenic ions.</p>
+    <p num="248">In each of PMOS transistor T1 and NMOS transistor T2, an interlayer insulating layer 71 covering the surface of gate electrode layer 60 and field oxide film 4 is formed.</p>
+    <p num="249">Interlayer insulation layer 71 on each of impurity regions 31p and 31n is removed by etching to form contact holes 710 and 710, respectively. Then, a polysilicon layer 80 is formed so as to come into contact with impurity regions 31p and 31n of SOI layer 3 via contact holes 710, and 710, respectively, and so as to cover the surface of interlayer insulating layer 71.</p>
+    <p num="250">Referring to FIG. 21E, a step similar to that shown in FIG. 2E is carried out for each of PMOS and NMOS transistors T1 and T2. As a result, polypad 8 and 8 are formed on impurity regions 31p and 31n, respectively.</p>
+    <p num="251">Referring to FIG. 21F, a step similar to that shown in FIG. 2F is carried out for each of PMOS and NMOS transistors T1 and T2. As a result, a gate electrode 6 is formed, and the surface of SOI layer 3 is exposed.</p>
+    <p num="252">Referring to FIG. 21G, a step similar to that shown in FIG. 2G is carried out for each of PMOS and NMOS transistors T1 and T2. During this process, a conductive layer 43 of polysilicon is formed instead of storage node 9 of FIG. 2G in each of PMOS and NMOS transistors T1 and T2.</p>
+    <p num="253">By diffusion of impurities from conductive layer 43, an impurity region 32p and an impurity region 32n is formed in SOI layer 3 for PMOS transistor T1 and NMOS transistor T2, respectively.</p>
+    <p num="254">In the CMOS inverter of FIG. 21 manufactured as described above, polypad 8 of PMOS transistor T1 is provided at the power supply node side, and polypad 8 of NMOS transistor T2 is provided at the ground node side. Respective conductive layers 43 in PMOS and NMOS transistors T1 and T2 form an output node.</p>
+    <p num="255">Therefore, according to the present method of manufacturing a CMOS inverter of FIGS. 21A-21G, the amount that is removed from SOI layer 3 can be suppressed. Because the CMOS inverter manufactured according to the present method has polypads 8 provided at the power supply node side and the ground node side, reduction in the speed of a circuit operation caused by provision of a polypad 8 is reduced. Such a CMOS inverter can be applied to a circuit where high speed operation of a row decoder or a column decoder, for example, is required.</p>
+    <p num="256">Tenth Embodiment</p>
+    <p num="257">FIGS. 22A-22F are sectional views of a CMOS inverter according to a tenth embodiment.</p>
+    <p num="258">Referring to FIG. 22A-22D, steps similar to those shown in FIGS. 21A-21D are carried out.</p>
+    <p num="259">Referring to FIG. 22E, a step similar to that shown in FIG. 5E is carried out for each of PMOS and NMOS transistors T1 and T2. As a result, poly pads 8 and 8 are formed on impurity region 31p and 31n, respectively. Also, gate electrodes 6 and 6 are formed.</p>
+    <p num="260">Referring to FIG. 22F, a step similar to that shown in FIG. 21G is carried out. As a result, a conductive layer 43 of polysilicon is formed. For PMOS transistor T1, an impurity region 32p is formed in SOI layer 3, and for NMOS transistor T2, an impurity region 32n is formed in SOI layer 3.</p>
+    <p num="261">The CMOS inverter of FIGS. 22A-22F manufactured as described above has polypad 8 of PMOS transistor T1 provided at the power supply node side, and polypad 8 of NMOS transistor T2 provided at the ground node side, similar to the CMOS inverter of FIGS. 21A-21G. Conductive layers 43 and 43 of PMOS and NMOS transistors T1 and T2 form output nodes.</p>
+    <p num="262">According to the present manufacturing method of a CMOS inverter of FIGS. 22A-22F, the amount that is removed from SOI layer 3 can be suppressed, as the CMOS inverter of FIG. 21A-21F. The CMOS inverter manufactured according to the method shown in FIGS. 22A-22F can be applied to a circuit where high speed operation for a row decoder or a column decoder is required in a DRAM, similar to the CMOS inverter of the ninth embodiment.</p>
+    <p num="263">Eleventh Embodiment</p>
+    <p num="264">FIGS. 23A-23H are sectional views of a CMOS inverter according to a manufacturing method of an eleventh embodiment.</p>
+    <p num="265">Referring to FIGS. 23A and 23B, steps similar to those shown in FIGS. 21A and 21B are carried out.</p>
+    <p num="266">Referring to FIG. 23C, a resist pattern 61 is formed on the center portion of gate electrode 60 above SOI layer 3 for each of PMOS transistor T1 and NMOS transistor T2.</p>
+    <p num="267">Using resist pattern 61 as a mask, ion implantation at an energy on the order of MeV is carried out. In this ion implantation, impurity regions 31p and 32p are formed in SOI layer 3 by implanting boron ions for PMOS transistor T1, and impurity regions 31n and 32n are formed in SOI layer 3 for NMOS transistor T2.</p>
+    <p num="268">Referring to FIG. 23D, a step similar to that shown in FIG. 6D is carried out for each of PMOS and NMOS transistors T1 and T2. As a result, gate electrode 60 is partially patterned for each of PMOS transistor T1 and NMOS transistor T2.</p>
+    <p num="269">Referring to FIG. 23E, an interlayer insulating layer 71 is formed covering SOI layer 3, gate electrode layer 60 and field oxide film 4 for each of PMOS and NMOS transistors T1 and T2.</p>
+    <p num="270">In PMOS transistor T1, interlayer insulating layer 71 on impurity region 31p is removed by etching to form a contact hole 710. In NMOS transistor T2, interlayer insulating layer 71 on impurity region 31n is removed by etching to form a contact hole 710.</p>
+    <p num="271">In PMOS transistor T1, a polysilicon layer 80 is formed in contact with impurity region 31p via contact hole 710 and covering the surface of interlayer insulating layer 71. Also, in NMOS transistor T2, polysilicon layer 80 is formed in contact with impurity region 31n via contact hole 710 and the covering the surface of interlayer insulating layer 71.</p>
+    <p num="272">Referring to FIG. 23F, a step similar to that shown in FIG. 21E is carried out. As a result, polypads 8, 8 are formed.</p>
+    <p num="273">Referring to FIG. 23G, a step similar to that shown in FIG. 7A is carried out for each of PMOS and NMOS transistors T1 and T2. As a result, gate electrodes 6, 6 are formed.</p>
+    <p num="274">Referring to FIG. 23H, a step similar to that shown in FIG. 7B is carried out for each of PMOS and NMOS transistors T1 and T2. A conductive layer 43 of polysilicon is formed instead of storage node 9 in each of PMOS and NMOS transistors T1 and T2.</p>
+    <p num="275">The CMOS transistor manufactured as shown in FIGS. 23A-23H has polypad 8 of PMOS transistor T1 provided at the power supply node side, and polypad 8 of NMOS transistor T2 provided at the ground node side. Respective conductive layers 43 and 43 of PMOS transistor T1 and NMOS transistor T2 form output nodes.</p>
+    <p num="276">Therefore, according to the manufacturing method of a CMOS inverter shown in FIGS. 23A-23H, the amount that is removed from SOI layer 3 can be suppressed. Because such a CMOS inverter has polypads provided at the power supply node and the ground node side, reduction in the circuit operation speed due to provision of a polypad is reduced. Such a CMOS inverter can be applied to circuitry where high speed operation of, for example, a row decoder or a column decoder, is required.</p>
+    <p num="277">The pair of impurity regions of SOI layer 3 is formed at the same time by ion implantation. It is not necessary to form impurity regions in two stages as in the above-described eighth and ninth embodiments. Therefore, the manufacturing process is simplified.</p>
+    <p num="278">Another example of a DRAM peripheral circuit utilizing an SOI structure will be described hereinafter. The following twelfth to fourteenth embodiments differ from the above-described ninth to eleventh embodiments where polypads are provided at the power supply node side and the ground node side. Polypads are provided at the output node side in a CMOS inverter utilizing an SOI structure.</p>
+    <p num="279">Twelfth Embodiment</p>
+    <p num="280">FIGS. 24A-24G are sectional views of a CMOS inverter showing sequential manufacturing steps according to a twelfth embodiment. The left side figures show the manufacturing steps of a PMOS transistor T1 taken along line C--C of FIG. 20, and the right side figures show the manufacturing steps of an NMOS transistor T2 taken along line D--D of FIG. 20.</p>
+    <p num="281">In contrast to the manufacturing method of a CMOS inverter of FIGS. 21A-21G where polypads 8, 8 are provided at the power supply node side and the ground node side in PMOS and NMOS transistors T1 and T2, polypads 8 and 8 are provided at respective output node sides according to the manufacturing method of a CMOS inverter shown in FIGS. 24A-24G.</p>
+    <p num="282">The steps shown in FIGS. 24A-24G are similar to those shown in FIGS. 21A-21G except that the formed positions of polypads, 8, 8 and conductive layers 42, 44 differ.</p>
+    <p num="283">Therefore, the etching process of polysilicon layer 80 and gate electrode layer 60 is carried out in two steps for each of PMOS and NMOS transistors T1 and T2.</p>
+    <p num="284">Thirteenth Embodiment</p>
+    <p num="285">FIGS. 25A-25F are sectional views of a CMOS inverter showing the sequential manufacturing steps according to a thirteenth embodiment. Differing from the manufacturing method of a CMOS inverter shown in FIGS. 22A-22F where polypads 8, 8 are provided at the power supply node side and the ground node side in PMOS and NMOS transistors T1 and T2, polypads 8, 8 are provided at respective output node sides according to the manufacturing method of FIGS. 25A-25G.</p>
+    <p num="286">The steps shown in FIGS. 25A-25F are similar to those of FIGS. 22A-22F except that the formed positions of polypads 8, 8 and conductive layers 42, 44 differ.</p>
+    <p num="287">Therefore, the etching process of polysilicon layer 80 and gate electrode layer 60 is carried out by one step in each of PMOS and NMOS transistors T1 and T2.</p>
+    <p num="288">Fourteenth Embodiment</p>
+    <p num="289">FIGS. 26A-26H show sectional views of a CMOS inverter showing the manufacturing steps according to a fourteenth embodiment.</p>
+    <p num="290">Differing from the manufacturing method of a CMOS inverter of FIGS. 23A-23H where polypads 8, 8 are provided at the power supply node side and the ground node side for PMOS transistor T1 and NMOS transistor T2, the manufacturing method of FIG. 23 has polypads 8, 8 provided at respective output node sides according to the manufacturing method of the present embodiment.</p>
+    <p num="291">The steps shown in FIGS. 26A-26H are similar to those of FIGS. 23A-23H except that the formed positions of polypads 8, 8 and conductive layers 42, 44 differ.</p>
+    <p num="292">Therefore, impurity regions 31p and 32p and impurity regions 31n and 32n are formed simultaneously by ion implantation at an energy on the order of MeV. Also, the etching process of polysilicon layer 80 and gate electrode layer 60 is carried out in two steps.</p>
+    <p num="293">A CMOS inverter manufactured according to the methods shown in the twelfth to fourteenth embodiments have polypads 8, 8 provided at the output node side. Such an CMOS inverter is increased in the resistance of the output node, so that the operation speed is reduced. Such an CMOS inverter can be applied to a delay circuit, for example, in a DRAM.</p>
+    <p num="294">Fifteenth Embodiment</p>
+    <p num="295">The fifteenth embodiment shows another example of a transistor utilizing an SOI structure used in a peripheral circuit of a DRAM. FIGS. 27A-27E are sectional views of a transistor according to the fifteenth embodiment.</p>
+    <p num="296">Referring to FIGS. 27A and 27B, steps similar to those shown in FIGS. 2A and 2B are carried out. As a result, a gate electrode layer 60 is formed above SOI layer 3 with a gate oxide film 5 therebetween.</p>
+    <p num="297">Referring to FIG. 27C, the portion of gate electrode layer 60 and gate oxide film 5 in the vicinity of field oxide films 4 and 4 are removed by etching to pattern gate electrode layer 60. As a result, gate electrode 6 is formed. Using gate electrode 6 as a mask, ions are implanted into SOI layer 3. As a result, a pair of impurity regions 31 and 32 are formed in SOI layer 3.</p>
+    <p num="298">Referring to FIG. 27D, interlayer insulating layer 71 is formed covering SOI layer 3, gate electrode 6 and field oxide films 4, 4.</p>
+    <p num="299">Interlayer insulating layer 71 on impurity region 31 is removed by etching to form a contact hole 710, and interlayer insulating layer 71 on impurity region 32 is removed by etching to form a contact hole 720. Then, a polysilicon layer 80 is formed in contact with impurity regions 31 and 32 via contact holes 710 and 720, respectively, and covering the surface of interlayer insulating layer 71.</p>
+    <p num="300">Referring to FIG. 27E, the portion of polysilicon layer 80 and interlayer insulating layer 71 on gate electrode 6 and field oxide films 4, 4 are removed by etching to pattern polysilicon layer 80. As a result, polypads 8, 8 are formed on impurity regions 31 and 32.</p>
+    <p num="301">The transistor manufactured according to the present embodiment has polypads 8, 8 provided on impurity regions 31 and 32. Therefore, SOI layer 3 is not removed at all during the patterning process of polysilicon layer 80.</p>
+    <p num="302">The above-described transistor is applicable to any peripheral circuit of a DRAM.</p>
+    <p num="303">Sixteenth Embodiment</p>
+    <p num="304">A sixteen embodiment will be described hereinafter. A method of suppressing the amount that is removed from an SOI layer is set forth in the following.</p>
+    <p num="305">The SOI layer is provided in a salicide (self aligned silicide) structure. More specifically, the MOS transistor of an SOI structure in the peripheral circuit is formed in a salicide structure in the DRAM. Here, the MOS transistor of an SOI structure in the memory cell array portion is not formed in a salicide structure.</p>
+    <p num="306">A salicide structure of a MOS transistor in a peripheral circuit is formed, for example, as shown in FIGS. 28A and 28B. FIGS. 28A and 28B are sectional views of a silicide structure portion of a MOS transistor in a peripheral circuit showing the manufacturing steps thereof.</p>
+    <p num="307">Before a silicide layer is formed, a gate electrode 6, and a pair of impurity regions 31 and 32 are formed, as shown in FIG. 28A. Then, molybdenum silicide is introduced into the atmosphere to cause chemical reaction, whereby a silicide layer S is formed on the surface of SOI layer 3 and on gate electrode 6, as shown in FIG. 28B.</p>
+    <p num="308">Because the MOS transistor in the peripheral circuit has a salicide structure, silicide layer S of SOI layer 3 serves as an etching stopper in the etching process of the conductive layer on gate electrode 6 in a manufacturing process of the peripheral circuit. Therefore, the amount that is removed from SOI layer 3 is suppressed in the peripheral circuit.</p>
+    <p num="309">The memory cell array portion is manufactured according to the manufacturing method of the first embodiment shown FIGS. 2A-2G, the manufacturing method of the second embodiment shown in FIGS. 5A-5F, or the manufacturing method of the third embodiment shown in FIGS. 6A-6F and FIGS. 7A and 7B.</p>
+    <p num="310">The present invention is not limited to the above embodiments where a polypad is used in circuitry forming a DRAM, and a polypad may be applied to a memory cell of a static random access memory (referred to as SRAM hereinafter).</p>
+    <p num="311">FIG. 29 is a circuit diagram of a memory cell of a SRAM employing a polypad.</p>
+    <p num="312">Referring to FIG. 29, a SRAM memory cell includes a pair of bit lines BL and /BL, a word line WL, driver transistors M1 and M2, and access transistors M3 and M4.</p>
+    <p num="313">A polypad is provided, for example, in a contact portion C1 between bit line BL and access transistor M3, and a contact portion C2 between bit line /BL and access transistor M4. Thus, a polypad can be applied to a SRAM memory cell.</p>
+    <p num="314">The type of a conductive layer right above a source/drain region differs according to the structure of a memory cell. Therefore, the concept of the present invention is applicable to the case where the conductive layer right above a source/drain region is a polypad, a storage node interconnection layer, or a bit line interconnection layer.</p>
+    <p num="315">The present invention is not limited to the above-described embodiments where a stacked type DRAM memory cell or a trench type DRAM memory cell is shown. The present invention is applicable for memory cells of other structures.</p>
+    <p num="316">Although the present invention has been described and illustrated in detail, it is clearly understood that the same is by way of illustration and example only and is not to be taken by way of limitation, the spirit and scope of the present invention being limited only by the terms of the appended claims.</p>
+  </description>
+  <claims format="original" lang="en" id="claim_en">
+    <claim num="1">
+      <claim-text>
+        <h1>What is claimed is:</h1>
+      </claim-text>
+      <claim-text>1. A semiconductor device comprising:  an SOI substrate including a semiconductor substrate, an insulating layer formed on the semiconductor substrate and an SOI layer formed on the insulating layer;  a transistor formed on the SOI layer and including   (a) a first source/drain region formed in the SOI layer,   (b) a gate electrode formed on the SOI layer with a gate insulation film interposed therebetween, and   (c) a second source/drain region formed in the SOI layer; and  a conductive layer extending above the gate electrode and in electrical contact with the first source/drain region, wherein each of the gate electrode and the conductive layer has an etched side surface in a single plane extending in a substantially perpendicular direction above the transistor in proximity to an edge of the second source/drain region.</claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>2. The semiconductor device according to claim 1, wherein the etched side surfaces of the gate electrode and the conductive layer are etched in the same etching step.</claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>3. The semiconductor device according to claim 1, comprising a DRAM.</claim-text>
+    </claim>
+    <claim num="4">
+      <claim-text>4. The semiconductor device according to claim 3, wherein the transistor is a memory cell transistor.</claim-text>
+    </claim>
+    <claim num="5">
+      <claim-text>5. The semiconductor device according to claim 3, comprising a peripheral circuit, wherein the transistor is a peripheral circuit transistor.</claim-text>
+    </claim>
+    <claim num="6">
+      <claim-text>6. The semiconductor device according to claim 1, wherein the transistor is a stack type memory cell transistor.</claim-text>
+    </claim>
+    <claim num="7">
+      <claim-text>7. The semiconductor device according to claim 6, wherein the conductive layer is a storage node of a capacitor formed under a bit line.</claim-text>
+    </claim>
+    <claim num="8">
+      <claim-text>8. The semiconductor device according to claim 6, wherein the conductive layer is a bit line formed under a storage node of a capacitor.</claim-text>
+    </claim>
+    <claim num="9">
+      <claim-text>9. The semiconductor device according to claim 1, wherein the transistor is a trench type memory cell transistor.</claim-text>
+    </claim>
+    <claim num="10">
+      <claim-text>10. The semiconductor device according to claim 5, wherein the peripheral circuit comprises a logic inverter.</claim-text>
+    </claim>
+    <claim num="11">
+      <claim-text>11. The semiconductor device according to claim 1, wherein the first source/drain region is formed before the second source/drain region.</claim-text>
+    </claim>
+    <claim num="12">
+      <claim-text>12. A dynamic random access memory comprising:  an SOI substrate including a semiconductor substrate, an insulating layer formed on the semiconductor substrate and an SOI layer formed on the insulating layer;  a transistor formed on the SOI layer and including   (a) a first source/drain region formed in the SOI layer,   (b) a gate electrode formed on the SOI layer with a gate insulation film interposed therebetween, and   (c) a second source/drain region formed in the SOI layer;  a pad to be connected to a bit line, said pad extending above the gate electrode and being in electrical contact with the first source/drain region, wherein each of the gate electrode and the pad has an etched side surface in a single plane extending in a substantially perpendicular direction above the transistor in proximity to an edge of the second source/drain region; and  a storage node in electrical contact with the second source/drain region.</claim-text>
+    </claim>
+    <claim num="13">
+      <claim-text>13. The dynamic random access memory according to claim 12, wherein  the storage node is located at the higher position than the pad to be connected to the bit line.</claim-text>
+    </claim>
+    <claim num="14">
+      <claim-text>14. The dynamic random access memory according to claim 12, wherein  the storage node is formed in a trench formed in the SOI substrate.</claim-text>
+    </claim>
+  </claims>
+</questel-patent-document>

@@ -8,7 +8,7 @@ import org.springframework.web.multipart.MultipartFile;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.nio.file.FileSystems;
+import java.nio.file.*;
 
 public class FileUtils {
 
@@ -32,7 +32,12 @@ public class FileUtils {
     public static boolean moveFile(String source, String destination) {
         File input = new File(source);
         String outputPath = destination + FileSystems.getDefault().getSeparator() + input.getName();
-        File output = new File(outputPath);
-        return input.renameTo(output);
+        try {
+            Files.move(Path.of(source), Path.of(outputPath), StandardCopyOption.REPLACE_EXISTING);
+        } catch (IOException e) {
+            logger.error("Error moving file: " + e.getMessage(), e);
+            return false;
+        }
+        return true;
     }
 }

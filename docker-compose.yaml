@@ -26,7 +26,7 @@ services:
       - mongodb
 
   patents:
-    image: patents:v9
+    image: patents:v1
     container_name: patentsApp
     restart: always
     ports:
@@ -39,7 +39,8 @@ services:
       - PATENTS_CONFIG_MONGODB_DATABASE=chemicalPatents
       - PATENTS_CONFIG_MONGODB_AUTH_DATABASE=chemicalPatents
     volumes:
-      - ./Users/ivanlaraarranz/Downloads/testUpload:/usr/app/sources
-      - ./Users/ivanlaraarranz/Downloads/testUpload/loaded:/usr/app/sources/loaded
+      - /Users/ivanlaraarranz/Downloads/testUpload:/usr/app/sources
+      - /Users/ivanlaraarranz/Downloads/testUpload/loaded:/usr/app/sources/loaded
     depends_on:
       - mongodb
+

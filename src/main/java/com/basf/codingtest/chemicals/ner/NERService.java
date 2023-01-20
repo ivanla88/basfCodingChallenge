@@ -1,9 +1,11 @@
 package com.basf.codingtest.chemicals.ner;
 
+import opennlp.tools.dictionary.Dictionary;
 import opennlp.tools.postag.POSModel;
 import opennlp.tools.postag.POSTaggerME;
 import opennlp.tools.tokenize.TokenizerME;
 import opennlp.tools.tokenize.TokenizerModel;
+import opennlp.tools.util.StringList;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
@@ -20,26 +22,29 @@ public class NERService implements INERService{
 
     private static final Logger logger = LoggerFactory.getLogger(NERService.class);
 
+    private Dictionary dictionary;
+
+    public NERService(Dictionary dictionary) {
+        this.dictionary = dictionary;
+    }
+
     @Override
     public List<String> filterWords(String text, String type) {
 
         String[] tokensFromText = this.getTokensFromText(text);
-        if (tokensFromText == null) {
-            return null;
+        if (tokensFromText != null) {
+            Map<String, String> tagsForWords = this.categorizedTokens(tokensFromText);
+            if (tagsForWords != null) {
+                List<String> wordsFiltered = tagsForWords.entrySet().stream()
+                        .filter(entry -> entry.getValue().equals(type))
+                        .map(e -> e.getKey())
+                        .filter(word -> dictionary.contains(new StringList(word)))
+                        .collect(Collectors.toList());
+
+                return wordsFiltered;
+            }
         }
-
-        Map<String, String> tagsForWords = this.categorizedTokens(tokensFromText);
-        if (tagsForWords == null) {
-            return null;
-        }
-
-        List<String> wordsFiltered = tagsForWords.entrySet().stream()
-                .filter(entry -> entry.getValue().equals(type))
-                .map(e -> e.getKey())
-                .collect(Collectors.toList());
-
-
-        return wordsFiltered;
+        return null;
     }
 
     private String[] getTokensFromText(String text) {

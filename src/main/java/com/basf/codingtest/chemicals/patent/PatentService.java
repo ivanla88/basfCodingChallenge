@@ -48,7 +48,7 @@ public class PatentService implements IPatentService{
     }
 
     @Override
-    @Scheduled(cron = "0 5 * ? * *")
+    @Scheduled(cron = "0 */5 * ? * *")
     public List<PatentDto> processDocumentAndSave() {
 
         logger.info("Checking available patent files");
@@ -56,7 +56,7 @@ public class PatentService implements IPatentService{
         return Arrays.stream(inputFolder.listFiles()).filter(f -> f.getName().endsWith(".xml")).parallel().map(
                 file -> {
                     PatentDto output = this.processDocumentAndSave(file);
-                    FileUtils.moveFile(file.toString(), patentsLoadedPath);
+                    FileUtils.moveFile(file.getAbsolutePath(), patentsLoadedPath);
                     return output;
                 })
                 .collect(Collectors.toList());

@@ -23,10 +23,6 @@ spring:
       max-request-size: 50MB
 
 chemicals:
-  ner:
-    model:
-
-
   patents:
     source: /usr/app/sources
     loaded: /usr/app/sources/loaded
